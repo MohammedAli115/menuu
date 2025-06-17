@@ -69,7 +69,7 @@ function Menu({ searchTerm }) {
               key={key}
               id={`category-${key}`}
               ref={(el) => (sectionRefs.current[key] = el)}
-              className="pt-2"
+              className="pt-3"
             >
               <p
                 className="bg-black mt-2 p-1 px-3 rounded-3 shadow text-warning"

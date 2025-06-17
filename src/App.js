@@ -4,6 +4,7 @@ import ChangeLang from './components/ChangeLang';
 import Menu from './components/Menu';
 import { useEffect, useState } from 'react';
 import Slider from './components/Slider';
+import Footer from './components/Footer';
 
 function App() {
     const [showSplash, setShowSplash] = useState(true);
@@ -24,9 +25,9 @@ function App() {
       >
         <img
           className=''
-          src="/images/gold-logo.jpg"
+          src="/images/imgUi.jpg"
           alt="Splash"
-          style={{objectFit : "cover" ,borderRadius : "40px", width: '500px', height: '300px'}}
+          style={{borderRadius : "10px", width: '90%', height: '70vh'}}
         />
       </div>
     );
@@ -44,6 +45,7 @@ function App() {
       <ChangeLang onSearch={setSearchTerm} />
       <Slider />
       <Menu searchTerm={searchTerm} />
+      <Footer />
     </div>
   );
 }

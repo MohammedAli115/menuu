@@ -767,5 +767,11 @@
       "price": "€3.02",
       "image": "/images/Dessert/Caramel-Delights-Cookies.avif"
     }
-  ]
+  ],
+  "footer": {
+    "name": "Shaghf Café Hannover",
+    "owner": "Inhaber: Ihab Hussen",
+    "address": "Kurt-Schumacher-Straße 7, 30159 Hannover",
+    "rights": "Alle Rechte vorbehalten © 2025"
+  }
 }

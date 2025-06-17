@@ -767,5 +767,11 @@
       "price": "€3.02",
       "image": "/images/Dessert/Caramel-Delights-Cookies.avif"
     }
-  ]
+  ],
+  "footer": {
+    "name": "مقهى شغف - هانوفر",
+    "owner": "المالك: إيهاب حسين",
+    "address": "7 شارع كورت شومخر، 30159 هانوفر",
+    "rights": "جميع الحقوق محفوظة © 2025"
+  }
 }

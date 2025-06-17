@@ -768,6 +768,12 @@
         "description": "A perfect blend of crisp, buttery goodness and rich, gooey caramel!",
         "price": "€3.02" 
       }
-    ]
+    ],
+    "footer": {
+      "name": "Shaghf Café Hannover",
+      "owner": "Owner: Ihab Hussen",
+      "address": "Kurt-Schumacher-Straße 7, 30159 Hannover",
+      "rights": "All rights reserved © 2025"
+    }
   }
   
