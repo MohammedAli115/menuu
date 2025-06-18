@@ -528,6 +528,15 @@
       "image": "/images/cold/Hazel-Nut-Dirty.avif"
     },
     {
+      "id": 660,
+      "category": "Kalter Kaffee",
+      "name": "Matcha Kokosnuss Wolke",
+      "description": "Unser Coconut Cloud Matcha vereint den sanften Reichtum von Matcha mit einem Hauch von beruhigendem, klarem Kokoswasser.",
+      "price": "5,75 €",
+      "image": "/images/cold/macha-coun.jpg"
+    },
+
+    {
       "id": 67,
       "category": "Kalter Kaffee",
       "name": "Kinder Latte",
