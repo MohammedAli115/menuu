@@ -356,7 +356,6 @@ const Menu = ({ searchTerm }) => {
                         borderRight: "3px solid #ffe600",
                         display: "inline-block",
                         borderRadius: "5px",
-                        fontFamily: "cursive",
                       }}
                     >
                       {groupName}
