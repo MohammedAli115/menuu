@@ -31,6 +31,7 @@
       "name": "Syphon",
       "description": "Syphon coffee is a captivating brewing method that combines science and art to deliver a rich, full-bodied cup. Known for its smooth texture and vibrant flavors.",
       "price": "€5.50",
+      "doublePrice": "€9.00",
       "image": "/images/Specialty/Syphon.avif"
     },
     {
@@ -758,6 +759,14 @@
       "image": "/images/Dessert/Tiramisu-Cake.avif",
       "description": "Tiramisu Cake is a layered dessert that combines the classic flavors of tiramisu in cake form.",
       "price": "€5.00"
+    },
+    {
+      "id": 87888,
+      "category": "Dessert",
+      "name": "Red Velvet Cake",
+      "image": "/images/Dessert/Red-Velvet-Cake.jpg",
+      "description": "A rich and moist red velvet cake layered with creamy cheese frosting and luscious mixed berry paste — a perfect fusion of velvety smoothness and vibrant berry flavor.",
+      "price": "€6.00"
     },
     {
       "id": 88,

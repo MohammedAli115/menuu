@@ -31,6 +31,7 @@
       "name": "Syphon",
       "description": "تحضير Syphon هو طريقة ساحرة تمزج بين العلم والفن لتقديم كوب غني بقوام ناعم ونكهات زاهية.",
       "price": "€5.50",
+      "doublePrice": "€9.00",
       "image": "/images/Specialty/Syphon.avif"
     },
     {
@@ -758,6 +759,14 @@
       "image": "/images/Dessert/Tiramisu-Cake.avif",
       "description": "كيك التيراميسو مكون من طبقات تجمع النكهات الكلاسيكية للتيراميسو في صورة كيك.",
       "price": "€5.00"
+    },
+    {
+      "id": 87888,
+      "category": "حلويات",
+      "name": "ريد فيلفت كيك",
+      "image": "/images/Dessert/Red-Velvet-Cake.jpg",
+      "description": "كيك ريد فيلفت غني وطري بطبقات من كريمة الجبن الناعمة ومزيج التوت الشهي — مزيج مثالي من النعومة المخملية ونكهة التوت المنعشة.",
+      "price": "€6.00"
     },
     {
       "id": 88,
