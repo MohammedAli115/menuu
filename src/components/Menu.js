@@ -393,7 +393,7 @@ const Menu = ({ searchTerm }) => {
                             </div>
                           </div>
                           {product.image && (
-                            <div className="">
+                            <div className="position-relative">
                               <img
                                 src={product.image}
                                 alt={product.name}
@@ -403,6 +403,18 @@ const Menu = ({ searchTerm }) => {
                                   objectFit: "cover",
                                 }}
                               />
+                              <p
+                                className="text-nowrap text-dark bg-light rounded text-center"
+                                style={{
+                                  position: "absolute",
+                                  left: "50%",
+                                  transform: "translateX(-50%)",
+                                  top: "15px",
+                                  padding: "1px 5px",
+                                }}
+                              >
+                                {product.comingSoon}
+                              </p>
                             </div>
                           )}
                         </div>
@@ -476,6 +488,18 @@ const Menu = ({ searchTerm }) => {
                 marginBottom: "15px",
               }}
             />
+            <p
+              className="text-dark bg-light rounded text-center"
+              style={{
+                position: "absolute",
+                left: "50%",
+                transform: "translateX(-50%)",
+                top: "15px",
+                padding: "2px 4px",
+              }}
+            >
+              {selectedProduct.comingSoon}
+            </p>
 
             <div className="modal-body">
               <h3 className="text-warning">{selectedProduct.name}</h3>
