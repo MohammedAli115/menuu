@@ -670,7 +670,8 @@
       "name": "Shaghf Tart",
       "image": "/images/Dessert/Shaghf-Tart.avif",
       "description": "Ein köstliches Dessert bei Shaghf für alle, die sich nach einer raffinierten und geschmackvollen Süßigkeit sehnen.",
-      "price": "€4.70"
+      "price": "€4.70",
+      "comingSoon": "Demnächst"
     },
     {
       "id": 77,
@@ -702,7 +703,8 @@
       "name": "Carrot Cake",
       "image": "/images/Dessert/Carrot-Cake.avif",
       "description": "Ein wohltuendes und luxuriöses Dessert, das für seine weiche Textur und aromatischen Aromen geschätzt wird.",
-      "price": "€4.50"
+      "price": "€4.50",
+      "comingSoon": "Demnächst"
     },
     {
       "id": 81,
@@ -798,7 +800,8 @@
       "name": "Molten Lava Cake With Coffee",
       "image": "/images/Dessert/Molten-Lava-Cake-With-Coffee.avif",
       "description": "Ein reichhaltiger Schokoladenkuchen mit flüssigem Kern und einem Hauch Kaffee.",
-      "price": "€7.00"
+      "price": "€7.00",
+      "comingSoon": "Demnächst"
     },
     {
       "id": 92,
@@ -806,7 +809,8 @@
       "name": "Salted Berry Cheesecake",
       "image": "/images/Dessert/Salted-Berry-Cheesecake.avif",
       "description": "Das Salz verstärkt die Süße der Beeren und gleicht die Reichhaltigkeit des Käsekuchens aus – eine perfekte Kombination aus süß und salzig.",
-      "price": "€4.50"
+      "price": "€4.50",
+      "comingSoon": "Demnächst"
     },
     {
       "id": 93,
@@ -814,7 +818,8 @@
       "name": "Shaghf Kunafa Chocolate",
       "image": "/images/Dessert/Shaghf-Kunafa-Chocolate.avif",
       "description": "Kunafa Chocolate ist eine köstliche Neuinterpretation des traditionellen nahöstlichen Desserts.",
-      "price": "€7.00"
+      "price": "€7.00",
+      "comingSoon": "Demnächst"
     },
     {
       "id": 94,
@@ -822,7 +827,8 @@
       "name": "Pumpkin Cake",
       "image": "/images/Dessert/Pumpkin-Cake.avif",
       "description": "Unser Kürbiskuchen ist ein saftiges und aromatisches Dessert aus gewürztem Kürbis.",
-      "price": "€6.00"
+      "price": "€6.00",
+      "comingSoon": "Demnächst"
     },
     {
       "id": 95,

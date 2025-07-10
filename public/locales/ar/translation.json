@@ -670,7 +670,8 @@
       "name": "Shaghf Tart",
       "image": "/images/Dessert/Shaghf-Tart.avif",
       "description": "حلوى شهية في شغف لأولئك الذين يتوقون إلى حلوى راقية مليئة بالنكهات.",
-      "price": "€4.70"
+      "price": "€4.70",
+      "comingSoon": "قريبًا"
     },
     {
       "id": 77,
@@ -702,7 +703,8 @@
       "name": "Carrot Cake",
       "image": "/images/Dessert/Carrot-Cake.avif",
       "description": "تحلية مريحة وفاخرة يستمتع بها الكثيرون لقوامها الناعم ونكهاتها العطرية.",
-      "price": "€4.50"
+      "price": "€4.50",
+      "comingSoon": "قريبًا"
     },
     {
       "id": 81,
@@ -798,7 +800,8 @@
       "name": "Molten Lava Cake With Coffee",
       "image": "/images/Dessert/Molten-Lava-Cake-With-Coffee.avif",
       "description": "كيك لافا غني بالشوكولاتة مع مركز دافئ سائل مضاف إليه القهوة.",
-      "price": "€7.00"
+      "price": "€7.00",
+      "comingSoon": "قريبًا"
     },
     {
       "id": 92,
@@ -806,7 +809,8 @@
       "name": "Salted Berry Cheesecake",
       "image": "/images/Dessert/Salted-Berry-Cheesecake.avif",
       "description": "الملح يعزز حلاوة التوت ويوازن غنى التشيز كيك لخلق مزيج مثالي بين الحلو والمالح.",
-      "price": "€4.50"
+      "price": "€4.50",
+      "comingSoon": "قريبًا"
     },
     {
       "id": 93,
@@ -814,7 +818,8 @@
       "name": "Shaghf Kunafa Chocolate",
       "image": "/images/Dessert/Shaghf-Kunafa-Chocolate.avif",
       "description": "كنافة شوكولاتة هي لمسة لذيذة على الحلوى الشرقية التقليدية.",
-      "price": "€7.00"
+      "price": "€7.00",
+      "comingSoon": "قريبًا"
     },
     {
       "id": 94,
@@ -822,7 +827,8 @@
       "name": "Pumpkin Cake",
       "image": "/images/Dessert/Pumpkin-Cake.avif",
       "description": "كيك اليقطين رطب ومليء بالنكهات، مصنوع من يقطين متبل.",
-      "price": "€6.00"
+      "price": "€6.00",
+      "comingSoon": "قريبًا"
     },
     {
       "id": 95,
