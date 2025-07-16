@@ -399,6 +399,15 @@
     {
       "id": 46,
       "category": "Kalt",
+      "description_category": "Ohne Kaffeegeschmack",
+      "name": "Mineralwasser",
+      "description": "Reines, erfrischendes Mineralwasser, das Sie hydratisiert.",
+      "price": "€2.50",
+      "image": "/images/cold/water.jpg"
+    },
+    {
+      "id": 46,
+      "category": "Kalt",
       "description_category": "Mit Kaffeegeschmack",
       "name": "Latte Cold",
       "description": "Eine erfrischende Mischung aus kalter Milch und Espresso auf Eis serviert für ein klassisches Kaltkaffee-Erlebnis.",

@@ -397,6 +397,15 @@
       "image": "/images/cold/Coconut-Latte.avif"
     },
     {
+      "id": 4600,
+      "category": "Cold",
+      "description_category": "Without coffee flavor",
+      "name": "Mineral Water",
+      "description": "Pure and refreshing chilled mineral water to keep you hydrated.",
+      "price": "€2.50",
+      "image": "/images/cold/water.jpg"
+    },
+    {
       "id": 46,
       "category": "Cold",
       "description_category": "With coffee flavor",

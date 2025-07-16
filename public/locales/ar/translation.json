@@ -3,7 +3,7 @@
     "specialty": "قهوة مختصة",
     "hot": "ساخنة",
     "frappuccino": "فرابتشينو",
-    "cold": "باردة",
+    "cold": "بارد",
     "dessert": "حلويات"
   },
   "products": [
@@ -395,6 +395,15 @@
       "description": "لمسة استوائية على اللاتيه المثلج الكلاسيكي مع إسبريسو ناعم وحليب جوز الهند الكريمي.",
       "price": "€5.00",
       "image": "/images/cold/Coconut-Latte.avif"
+    },
+    {
+      "id": 4600,
+      "category": "بارد",
+      "description_category": "بدون نكهة القهوة",
+      "name": "مياه معدنية",
+      "description": "مياه معدنية باردة ونقية تمنحك الانتعاش والترطيب.",
+      "price": "€2.50",
+      "image": "/images/cold/water.jpg"
     },
     {
       "id": 46,
