@@ -663,7 +663,8 @@
       "name": "Acai",
       "image": "/images/Dessert/Acai.avif",
       "description": "Unsere Acai Bowl ist gefüllt mit Früchten, Granola und anderen gesunden Toppings — die perfekte Wahl für einen nahrhaften, erfrischenden Snack.",
-      "price": "€5.50"
+      "price": "€5.50",
+      "comingSoon": "bald verfügbar"
     },
     {
       "id": 75,
@@ -671,7 +672,8 @@
       "name": "Kinder Sauce",
       "image": "/images/Dessert/Kinder-Sauce.avif",
       "description": "Kinder Sauce ist eine süße, cremige Sauce, inspiriert von der beliebten Kinderschokolade.",
-      "price": "€5.0"
+      "price": "€5.0",
+      "comingSoon": "bald verfügbar"
     },
     {
       "id": 76,
@@ -680,7 +682,7 @@
       "image": "/images/Dessert/Shaghf-Tart.avif",
       "description": "Ein köstliches Dessert bei Shaghf für alle, die sich nach einer raffinierten und geschmackvollen Süßigkeit sehnen.",
       "price": "€4.70",
-      "comingSoon": "Demnächst"
+      "comingSoon": "bald verfügbar"
     },
     {
       "id": 77,
@@ -713,7 +715,7 @@
       "image": "/images/Dessert/Carrot-Cake.avif",
       "description": "Ein wohltuendes und luxuriöses Dessert, das für seine weiche Textur und aromatischen Aromen geschätzt wird.",
       "price": "€4.50",
-      "comingSoon": "Demnächst"
+      "comingSoon": "bald verfügbar"
     },
     {
       "id": 81,
@@ -777,7 +779,8 @@
       "name": "Red Velvet Kuchen",
       "image": "/images/Dessert/Red-Velvet-Cake.jpg",
       "description": "Ein reichhaltiger und saftiger Red Velvet Kuchen, geschichtet mit cremigem Frischkäse-Frosting und köstlichem Beerenpüree — eine perfekte Fusion aus samtiger Weichheit und lebendigem Beerengeschmack.",
-      "price": "€6.00"
+      "price": "€6.00",
+      "comingSoon": "bald verfügbar"
     },
     {
       "id": 88,
@@ -809,8 +812,7 @@
       "name": "Molten Lava Cake With Coffee",
       "image": "/images/Dessert/Molten-Lava-Cake-With-Coffee.avif",
       "description": "Ein reichhaltiger Schokoladenkuchen mit flüssigem Kern und einem Hauch Kaffee.",
-      "price": "€7.00",
-      "comingSoon": "Demnächst"
+      "price": "€7.00"
     },
     {
       "id": 92,
@@ -819,7 +821,7 @@
       "image": "/images/Dessert/Salted-Berry-Cheesecake.avif",
       "description": "Das Salz verstärkt die Süße der Beeren und gleicht die Reichhaltigkeit des Käsekuchens aus – eine perfekte Kombination aus süß und salzig.",
       "price": "€4.50",
-      "comingSoon": "Demnächst"
+      "comingSoon": "bald verfügbar"
     },
     {
       "id": 93,
@@ -828,7 +830,7 @@
       "image": "/images/Dessert/Shaghf-Kunafa-Chocolate.avif",
       "description": "Kunafa Chocolate ist eine köstliche Neuinterpretation des traditionellen nahöstlichen Desserts.",
       "price": "€7.00",
-      "comingSoon": "Demnächst"
+      "comingSoon": "bald verfügbar"
     },
     {
       "id": 94,
@@ -837,7 +839,7 @@
       "image": "/images/Dessert/Pumpkin-Cake.avif",
       "description": "Unser Kürbiskuchen ist ein saftiges und aromatisches Dessert aus gewürztem Kürbis.",
       "price": "€6.00",
-      "comingSoon": "Demnächst"
+      "comingSoon": "bald verfügbar"
     },
     {
       "id": 95,
