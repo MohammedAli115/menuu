@@ -73,9 +73,9 @@ const Menu = ({ searchTerm }) => {
   };
 
   const dessertNoteText = {
-    ar: "الحلويات تتغير يوميًا وقد لا تتوفر جميع العناصر.",
-    en: "Desserts change daily and not all items may be available.",
-    de: "Desserts ändern sich täglich und sind möglicherweise nicht immer verfügbar.",
+    ar: "تشكيلة الحلويات لدينا تتغير يوميًا لنقدم لكم دائمًا أشهى المأكولات الطازجة والموسمية. يُرجى الاستفسار عند الكاشير عن التشكيلة المتوفرة حاليًا.",
+    en: "Our dessert selection varies daily to always offer you fresh and seasonal delicacies. Please ask at the counter for today's specialties.",
+    de: "Unser Dessertangebot variiert täglich, um Ihnen stets frische und saisonale Köstlichkeiten bieten zu können. Bitte erkundigen Sie sich an der Theke nach den aktuellen Spezialitäten.",
   };
 
   return (
