@@ -12,8 +12,8 @@
       "category": "Spezialitätenkaffee",
       "name": "V60",
       "description": "Unser V60-Filterkaffee bietet ein sorgfältig abgestimmtes Kaffeeerlebnis, das die einzigartigen Aromen der Bohnen hervorhebt.",
-      "price": "€5.00",
-      "doublePrice": "€8.50",
+      "price": "€6.00",
+      "doublePrice": "€12.00",
       "image": "/images/Specialty/V60.avif"
     },
     {
@@ -21,8 +21,8 @@
       "category": "Spezialitätenkaffee",
       "name": "Chemex",
       "description": "Unser Chemex-Kaffee zeigt die Kunst der langsamen Kaffeezubereitung und betont weiche, ausgewogene Aromen.",
-      "price": "€5.50",
-      "doublePrice": "€9.00",
+      "price": "€6.00",
+      "doublePrice": "€10.00",
       "image": "/images/Specialty/Chemex.avif"
     },
     {
@@ -30,7 +30,7 @@
       "category": "Spezialitätenkaffee",
       "name": "Syphon",
       "description": "Syphon-Kaffee kombiniert Wissenschaft und Kunst und liefert eine reichhaltige, vollmundige Tasse mit weicher Textur und lebendigen Aromen.",
-      "price": "€5.50",
+      "price": "€6.50",
       "doublePrice": "€9.00",
       "image": "/images/Specialty/Syphon.avif"
     },
@@ -39,7 +39,7 @@
       "category": "Spezialitätenkaffee",
       "name": "Aeropress",
       "description": "Aeropress-Kaffee bietet eine schnelle und vielseitige Brühmethode für eine sanfte, aromatische Tasse mit geringer Säure.",
-      "price": "€5.50",
+      "price": "€6.50",
       "image": "/images/Specialty/Aeropress.avif"
     },
     {
@@ -48,7 +48,7 @@
       "description_category": "Mit Kaffeegeschmack",
       "name": "Espresso Single",
       "description": "Espresso ist ein kräftiger, konzentrierter Kaffee, der entsteht, wenn heißes Wasser unter Druck durch fein gemahlenen Kaffee gepresst wird.",
-      "price": "€2.40",
+      "price": "€2.60",
       "image": "/images/hot/Espresso.avif"
     },
     {
@@ -57,7 +57,7 @@
       "description_category": "Mit Kaffeegeschmack",
       "name": "Espresso Double",
       "description": "Ein doppelter Espresso (Doppio) ist ein intensiver Kaffee, der mit zwei Espressoshots zubereitet wird.",
-      "price": "€3.30",
+      "price": "€3.40",
       "image": "/images/hot/Double-Espresso.avif"
     },
     {
@@ -84,7 +84,7 @@
       "description_category": "Mit Kaffeegeschmack",
       "name": "Cappuccino",
       "description": "Cappuccino ist ein klassisches Kaffeegetränk aus gleichen Teilen Espresso, heißer Milch und Milchschaum.",
-      "price": "€3.70",
+      "price": "€3.80",
       "image": "/images/hot/Cappuccino.avif"
     },
     {
@@ -102,7 +102,7 @@
       "description_category": "Mit Kaffeegeschmack",
       "name": "Flat White",
       "description": "Flat White ist ein sanftes, samtiges Kaffeegetränk, das reichhaltigen Espresso mit fein texturierter Milch kombiniert.",
-      "price": "€4.00",
+      "price": "€4.50",
       "image": "/images/hot/Flat-White.avif"
     },
     {
@@ -111,7 +111,7 @@
       "description_category": "Mit Kaffeegeschmack",
       "name": "Latte",
       "description": "Ein Latte ist ein mildes Kaffeegetränk mit einem Espressoshot und heißer Milch, gekrönt von einer dünnen Schicht Mikroschaum.",
-      "price": "€4.50",
+      "price": "€4.30",
       "image": "/images/hot/Latte.avif"
     },
     {
@@ -147,7 +147,7 @@
       "description_category": "Mit Kaffeegeschmack",
       "name": "Spanish The Fall Edition",
       "description": "Perfekt ausbalanciert bietet er ein warmes, genussvolles Kaffeeerlebnis, das den Herbst einfängt.",
-      "price": "€4.50",
+      "price": "€4.80",
       "image": "/images/hot/Spanish-The-Fall-Edition.avif"
     },
     {
@@ -156,7 +156,7 @@
       "description_category": "Mit Kaffeegeschmack",
       "name": "Twist Caramel",
       "description": "Twisted Caramel ist ein dekadenter Kaffeegenuss mit kräftigem Espresso, cremiger Milch, reichhaltigem Karamellsirup und Schlagsahne.",
-      "price": "€4.50",
+      "price": "€4.58",
       "image": "/images/hot/Twist-Caramel.avif"
     },
     {
@@ -183,7 +183,7 @@
       "description_category": "Ohne Kaffeegeschmack",
       "name": "Hot Chocolate",
       "description": "Heiße Schokolade ist ein wohltuender Klassiker aus reichhaltiger Schokolade, perfekt in heißer Milch aufgelöst.",
-      "price": "€4.30",
+      "price": "€4.50",
       "image": "/images/hot/Hot-Chocolate.avif"
     },
     {
@@ -192,7 +192,7 @@
       "description_category": "Mit Kaffeegeschmack",
       "name": "Pistachio Hot",
       "description": "Der Pistachio Hot ist ein luxuriöses Getränk, das cremige Milch mit einem Hauch Pistaziengeschmack verbindet.",
-      "price": "€4.50",
+      "price": "€5.00",
       "image": "/images/hot/Picolo.avif"
     },
     {
@@ -201,7 +201,7 @@
       "description_category": "Ohne Kaffeegeschmack",
       "name": "Matcha Latte",
       "description": "Matcha Latte ist ein cremiges, erdiges Getränk aus Matcha-Grünteepulver und heißer Milch.",
-      "price": "€4.50",
+      "price": "€5.00",
       "image": "/images/hot/Hot-Chocolate.avif"
     },
     {
@@ -254,7 +254,7 @@
       "category": "Frappuccino",
       "name": "Shaghf Frappe",
       "description": "Ein Frappe mit einem glatten, frostigen Kaffeeerlebnis, perfekt ausbalanciert zwischen Süße und Stärke.",
-      "price": "€5.50",
+      "price": "€6.00",
       "image": "/images/Frappuccino/Shaghf-Frappe.avif"
     },
     {
@@ -262,7 +262,7 @@
       "category": "Frappuccino",
       "name": "Pistachio Frappe",
       "description": "Unser Pistachio Frappe bietet einen sanften, nussigen Geschmack, kühl und genussvoll, ideal für eine erfrischende Pause.",
-      "price": "€5.50",
+      "price": "€6.00",
       "image": "/images/Frappuccino/Pistachio-Frappe.avif"
     },
     {
@@ -270,16 +270,15 @@
       "category": "Frappuccino",
       "name": "Creamy Cookies",
       "description": "Gemischt zu einer glatten, cremigen Konsistenz, bietet es ein süßes, dessertartiges Erlebnis – perfekt für Keksfans.",
-      "price": "€5.00",
+      "price": "€5.50",
       "image": "/images/Frappuccino/Creamy-Cookies.avif"
     },
-
     {
       "id": 31,
       "category": "Frappuccino",
       "name": "Lotus Frappe",
       "description": "Unser Lotus Frappe bietet einen süßen, würzigen Geschmack mit einem knackigen Biss – perfekt für Keks- und Kaffeeliebhaber.",
-      "price": "€5.00",
+      "price": "€5.50",
       "image": "/images/Frappuccino/Lotus-Frappe.avif"
     },
     {
@@ -295,7 +294,7 @@
       "category": "Frappuccino",
       "name": "Mango Frappe",
       "description": "Sanft und cremig, bietet er einen tropischen, süßen Geschmack – perfekt für eine erfrischende Pause an warmen Tagen.",
-      "price": "€5.00",
+      "price": "€6.00",
       "image": "/images/Frappuccino/Mango-Frappe.avif"
     },
     {
@@ -311,7 +310,7 @@
       "category": "Frappuccino",
       "name": "Blueberry Frappe",
       "description": "Ein fruchtiges Vergnügen mit süß-säuerlichem Geschmack und cremiger Textur, ideal für einen kühlenden Genuss an warmen Tagen.",
-      "price": "€5.00",
+      "price": "€6.00",
       "image": "/images/Frappuccino/Blueberry-Frappe.avif"
     },
     {
@@ -319,7 +318,7 @@
       "category": "Frappuccino",
       "name": "Brownies Frappe",
       "description": "Gemischt zu einer cremigen Textur, bietet er einen süßen, schokoladigen Geschmack mit einem Hauch von Brownie – perfekt für Dessertliebhaber.",
-      "price": "€5.70",
+      "price": "€6.00",
       "image": "/images/Frappuccino/Brownies-Frappe.avif"
     },
     {
@@ -343,7 +342,7 @@
       "category": "Frappuccino",
       "name": "Acai Smoothie",
       "description": "Unser Acai Smoothie bietet einen süßen, leicht säuerlichen Geschmack – ein erfrischendes, gesundes Getränk voller Antioxidantien.",
-      "price": "€6.00",
+      "price": "€7.50",
       "image": "/images/Frappuccino/Acai-Smoothie.avif"
     },
     {
@@ -351,7 +350,7 @@
       "category": "Frappuccino",
       "name": "Cinnamon Frappe",
       "description": "Unser Cinnamon Frappe hat eine glatte, cremige Textur und bietet einen süßen, würzigen Geschmack mit der Wärme von Zimt – perfekt für ein gemütliches, erfrischendes Vergnügen.",
-      "price": "€5.00",
+      "price": "€5.50",
       "image": "/images/Frappuccino/Cinnamon-Frappe.avif"
     },
     {
@@ -375,7 +374,7 @@
       "category": "Frappuccino",
       "name": "Mango Dates Frappe",
       "description": "Genieße etwas Besonderes! Unser Mango Dates Frappe ist die perfekte Mischung aus Tradition und Frische.",
-      "price": "€5.50",
+      "price": "€6.00",
       "image": "/images/Frappuccino/Mango-Dates-Frappe.avif"
     },
     {
@@ -384,7 +383,7 @@
       "description_category": "Mit Kaffeegeschmack",
       "name": "Charcoal Latte",
       "description": "Ein kräftiges, entgiftendes Kaltgetränk mit aktiviertem Kohlenstoff und Espresso.",
-      "price": "€4.50",
+      "price": "€5.00",
       "image": "/images/cold/Charcoal-Latte.avif"
     },
     {
@@ -420,7 +419,7 @@
       "description_category": "Mit Kaffeegeschmack",
       "name": "Dates Cold",
       "description": "Sanfter Eiskaffee, natürlich gesüßt mit Datteln für einen reichen, exotischen Geschmack.",
-      "price": "€5.30",
+      "price": "€5.50",
       "image": "/images/cold/Dates-Cold.avif"
     },
     {
@@ -429,7 +428,7 @@
       "description_category": "Mit Kaffeegeschmack",
       "name": "Iced Americano",
       "description": "Kräftiger, belebender Espresso mit kaltem Wasser verlängert und auf Eis serviert.",
-      "price": "€3.80",
+      "price": "€4.00",
       "image": "/images/cold/Iced-Americano.avif"
     },
     {
@@ -510,7 +509,7 @@
       "description_category": "Mit Kaffeegeschmack",
       "name": "Coconut Matcha Dirty Coffee",
       "description": "Eine einzigartige Mischung aus Espresso, Matcha und Kokosmilch für ein cremiges, belebendes Vergnügen.",
-      "price": "€4.50",
+      "price": "€5.50",
       "image": "/images/cold/Coconut-Matcha-Dirty-Coffee.avif"
     },
     {
@@ -519,7 +518,7 @@
       "description_category": "Mit Kaffeegeschmack",
       "name": "Matcha Dirty Coffee",
       "description": "Lebhafter Matcha-Grüntee gemischt mit Espresso und Eis für einen geschmackvollen, erdigen Kick.",
-      "price": "€4.50",
+      "price": "€5.50",
       "image": "/images/cold/Matcha-Dirty-Coffee.avif"
     },
     {
@@ -528,7 +527,7 @@
       "description_category": "Mit Kaffeegeschmack",
       "name": "Matcha Coconut Cloud",
       "description": "Matcha und Kokos auf Eis gemixt für ein ruhiges, süßes und zufriedenstellendes Sommergetränk.",
-      "price": "€4.50",
+      "price": "€5.50",
       "image": "/images/cold/macha-coun.jpg"
     },
     {
@@ -537,7 +536,7 @@
       "description_category": "Mit Kaffeegeschmack",
       "name": "Hazel Nut Dirty",
       "description": "Gekühlter Espresso mit süßem Haselnuss-Sirup für ein nussiges, cremiges Erfrischungsgetränk.",
-      "price": "€4.50",
+      "price": "€5.00",
       "image": "/images/cold/Hazel-Nut-Dirty.avif"
     },
     {
@@ -546,7 +545,7 @@
       "description_category": "Mit Kaffeegeschmack",
       "name": "Kinder Latte",
       "description": "Ein dessert-inspirierter Eiskaffee mit cremigem Espresso und Noten von Kinderschokolade.",
-      "price": "€4.50",
+      "price": "€5.00",
       "image": "/images/cold/Kinder-Latte.avif"
     },
     {
@@ -555,7 +554,7 @@
       "description_category": "Mit Kaffeegeschmack",
       "name": "White Mocha",
       "description": "Ein seidiger, süßer Weißschokoladen-Eiskaffee, getoppt mit cremiger Milch und Espresso.",
-      "price": "€4.70",
+      "price": "€5.00",
       "image": "/images/cold/White-Mocha.avif"
     },
     {
@@ -564,7 +563,7 @@
       "description_category": "Mit Kaffeegeschmack",
       "name": "Pistachio Latte",
       "description": "Ein cremiger Eiskaffee mit nussigen Pistaziennoten für eine exquisite Gourmet-Note.",
-      "price": "€5.00",
+      "price": "€5.50",
       "image": "/images/cold/Pistachio-Latte.avif"
     },
     {
@@ -582,7 +581,7 @@
       "description_category": "Ohne Kaffeegeschmack",
       "name": "Baby Chino",
       "description": "Ein spaßiger, schaumiger Milchtunk ohne Kaffee — perfekt für Kinder oder Koffeinvermeider.",
-      "price": "€4.80",
+      "price": "€3.00",
       "image": "/images/cold/Baby-Chino.avif"
     },
     {
@@ -609,7 +608,7 @@
       "description_category": "Ohne Kaffeegeschmack",
       "name": "Salted Vanilla Ice Matcha",
       "description": "Süße Vanille und Matcha vereinen sich in diesem leicht salzigen Eistee-Twist.",
-      "price": "€4.80",
+      "price": "€5.50",
       "image": "/images/cold/Salted-Vanilla-Ice-Matcha.avif"
     },
     {
@@ -618,7 +617,7 @@
       "description_category": "Ohne Kaffeegeschmack",
       "name": "White Matcha Crack",
       "description": "Matcha und weiße Schokolade über Eis gemixt mit cremiger Textur und süßem Knusper.",
-      "price": "€4.70",
+      "price": "€5.50",
       "image": "/images/cold/White-Matcha-Crack.avif"
     },
     {
@@ -654,7 +653,7 @@
       "description_category": "Ohne Kaffeegeschmack",
       "name": "Peach Tea",
       "description": "Ein süßer, saftiger Eistee mit reichem Pfirsichgeschmack für eine erfrischende Note.",
-      "price": "€5.00",
+      "price": "€5.50",
       "image": "/images/cold/Peach-Tea.avif"
     },
     {
@@ -663,7 +662,7 @@
       "name": "Acai",
       "image": "/images/Dessert/Acai.avif",
       "description": "Unsere Acai Bowl ist gefüllt mit Früchten, Granola und anderen gesunden Toppings — die perfekte Wahl für einen nahrhaften, erfrischenden Snack.",
-      "price": "€5.50",
+      "price": "€7.50",
       "comingSoon": "bald verfügbar"
     },
     {
@@ -672,7 +671,7 @@
       "name": "Kinder Sauce",
       "image": "/images/Dessert/Kinder-Sauce.avif",
       "description": "Kinder Sauce ist eine süße, cremige Sauce, inspiriert von der beliebten Kinderschokolade.",
-      "price": "€5.0",
+      "price": "€5.00",
       "comingSoon": "bald verfügbar"
     },
     {
@@ -681,7 +680,7 @@
       "name": "Shaghf Tart",
       "image": "/images/Dessert/Shaghf-Tart.avif",
       "description": "Ein köstliches Dessert bei Shaghf für alle, die sich nach einer raffinierten und geschmackvollen Süßigkeit sehnen.",
-      "price": "€4.70",
+      "price": "€5.00",
       "comingSoon": "bald verfügbar"
     },
     {
@@ -690,7 +689,7 @@
       "name": "Biet Brownies",
       "image": "/images/Dessert/Biet-Brownies.avif",
       "description": "Reiche, luxuriöse Brownies aus hochwertigen Zutaten, die eine dichte und fudgy Textur bieten.",
-      "price": "€2.00"
+      "price": "€4.00"
     },
     {
       "id": 78,
@@ -714,7 +713,7 @@
       "name": "Carrot Cake",
       "image": "/images/Dessert/Carrot-Cake.avif",
       "description": "Ein wohltuendes und luxuriöses Dessert, das für seine weiche Textur und aromatischen Aromen geschätzt wird.",
-      "price": "€4.50",
+      "price": "€5.00",
       "comingSoon": "bald verfügbar"
     },
     {
@@ -731,7 +730,7 @@
       "name": "Zaatar Croissants",
       "image": "/images/Dessert/Zaatar-Croissants.avif",
       "description": "Ein perfektes Gleichgewicht zwischen buttrigem Gebäck und dem aromatischen, leicht säuerlichen Geschmack von Zaatar – einzigartig und köstlich.",
-      "price": "€2.80"
+      "price": "€3.00"
     },
     {
       "id": 83,
@@ -739,7 +738,7 @@
       "name": "Cheese Croissants",
       "image": "/images/Dessert/Cheese-Croissants.avif",
       "description": "Eine köstliche Balance aus herzhaftem Käse und der leichten, knusprigen Textur des Croissant-Teigs – ideal für Frühstück oder Snack.",
-      "price": "€2.80"
+      "price": "€3.00"
     },
     {
       "id": 84,
@@ -747,7 +746,7 @@
       "name": "Nutella Coffle",
       "image": "/images/Dessert/Nutella-Coffle.avif",
       "description": "Eine Kombination aus knuspriger, buttriger Außenseite und einer köstlichen Nutella-Füllung für einen einzigartigen und befriedigenden Genuss.",
-      "price": "€4.50"
+      "price": "€5.00"
     },
     {
       "id": 85,
@@ -771,7 +770,7 @@
       "name": "Tiramisu Cake",
       "image": "/images/Dessert/Tiramisu-Cake.avif",
       "description": "Ein geschichteter Kuchen, der die klassischen Aromen von Tiramisu in Kuchenform vereint.",
-      "price": "€5.00"
+      "price": "€5.50"
     },
     {
       "id": 87888,
@@ -788,7 +787,7 @@
       "name": "Banana Cake",
       "image": "/images/Dessert/Banana-Cake.avif",
       "description": "Ein saftiger, süßer Kuchen aus reifen Bananen.",
-      "price": "€2.00"
+      "price": "€3.00"
     },
     {
       "id": 89,
@@ -796,7 +795,7 @@
       "name": "Tiramisu",
       "image": "/images/Dessert/Tiramisu.avif",
       "description": "Ein perfektes Gleichgewicht aus Kaffee, Süße und einer leichten Bitterkeit vom Kakao für einen luxuriösen Genuss.",
-      "price": "€5.00"
+      "price": "€4.50"
     },
     {
       "id": 90,
@@ -812,7 +811,7 @@
       "name": "Molten Lava Cake With Coffee",
       "image": "/images/Dessert/Molten-Lava-Cake-With-Coffee.avif",
       "description": "Ein reichhaltiger Schokoladenkuchen mit flüssigem Kern und einem Hauch Kaffee.",
-      "price": "€7.00"
+      "price": "€8.00"
     },
     {
       "id": 92,

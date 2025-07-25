@@ -12,8 +12,8 @@
       "category": "قهوة مختصة",
       "name": "V60",
       "description": "تحضير V60 لدينا يقدم تجربة قهوة دقيقة مصممة لإبراز النكهات الفريدة لحبوب القهوة.",
-      "price": "€5.00",
-      "doublePrice": "€8.50",
+      "price": "€6.00",
+      "doublePrice": "€12.00",
       "image": "/images/Specialty/V60.avif"
     },
     {
@@ -21,8 +21,8 @@
       "category": "قهوة مختصة",
       "name": "Chemex",
       "description": "تحضير Chemex لدينا يعرض فن القهوة البطيئة لإبراز النكهات الناعمة والمتوازنة.",
-      "price": "€5.50",
-      "doublePrice": "€9.00",
+      "price": "€6.00",
+      "doublePrice": "€10.00",
       "image": "/images/Specialty/Chemex.avif"
     },
     {
@@ -30,7 +30,7 @@
       "category": "قهوة مختصة",
       "name": "Syphon",
       "description": "تحضير Syphon هو طريقة ساحرة تمزج بين العلم والفن لتقديم كوب غني بقوام ناعم ونكهات زاهية.",
-      "price": "€5.50",
+      "price": "€6.50",
       "doublePrice": "€9.00",
       "image": "/images/Specialty/Syphon.avif"
     },
@@ -39,7 +39,7 @@
       "category": "قهوة مختصة",
       "name": "Aeropress",
       "description": "قهوة Aeropress تقدم طريقة سريعة ومتعددة الاستخدامات مع كوب ناعم وغني ومنخفض الحموضة.",
-      "price": "€5.50",
+      "price": "€6.50",
       "image": "/images/Specialty/Aeropress.avif"
     },
     {
@@ -48,7 +48,7 @@
       "description_category": "بنكة القهوة",
       "name": "Espresso Single",
       "description": "الإسبريسو قهوة مركزة وقوية يتم تحضيرها بتمرير الماء الساخن عبر البن المطحون تحت ضغط.",
-      "price": "€2.40",
+      "price": "€2.60",
       "image": "/images/hot/Espresso.avif"
     },
     {
@@ -57,7 +57,7 @@
       "description_category": "بنكة القهوة",
       "name": "Espresso Double",
       "description": "الاسبريسو المزدوج (دوبو) هو قهوة قوية ومكثفة يتم تحضيرها باستخدام جرعتين من الإسبريسو.",
-      "price": "€3.30",
+      "price": "€3.40",
       "image": "/images/hot/Double-Espresso.avif"
     },
     {
@@ -84,7 +84,7 @@
       "description_category": "بنكة القهوة",
       "name": "Cappuccino",
       "description": "الكابتشينو هو مشروب قهوة كلاسيكي يتكون من أجزاء متساوية من الإسبريسو والحليب المبخر ورغوة الحليب.",
-      "price": "€3.70",
+      "price": "€3.80",
       "image": "/images/hot/Cappuccino.avif"
     },
     {
@@ -102,7 +102,7 @@
       "description_category": "بنكة القهوة",
       "name": "Flat White",
       "description": "الفلات وايت هو مشروب قهوة ناعم يجمع بين قاعدة الإسبريسو الغنية والحليب المبخر بقوام مخملي.",
-      "price": "€4.00",
+      "price": "€4.50",
       "image": "/images/hot/Flat-White.avif"
     },
     {
@@ -111,7 +111,7 @@
       "description_category": "بنكة القهوة",
       "name": "Latte",
       "description": "اللاتيه هو مشروب قهوة ناعم يتكون من جرعة إسبريسو مع حليب مبخر وطبقة خفيفة من الرغوة.",
-      "price": "€4.50",
+      "price": "€4.30",
       "image": "/images/hot/Latte.avif"
     },
     {
@@ -147,7 +147,7 @@
       "description_category": "بنكة القهوة",
       "name": "Spanish The Fall Edition",
       "description": "متوازن تمامًا، يقدم تجربة قهوة دافئة وغنية تجسد روح الخريف.",
-      "price": "€4.50",
+      "price": "€4.80",
       "image": "/images/hot/Spanish-The-Fall-Edition.avif"
     },
     {
@@ -156,7 +156,7 @@
       "description_category": "بنكة القهوة",
       "name": "Twist Caramel",
       "description": "توستد كراميل هو متعة قهوة فاخرة مع إسبريسو جريء وحليب مبخر ودوامة من صوص الكراميل الغني ومغطاة بالكريمة المخفوقة.",
-      "price": "€4.50",
+      "price": "€4.58",
       "image": "/images/hot/Twist-Caramel.avif"
     },
     {
@@ -183,7 +183,7 @@
       "description_category": "بدون نكهة القهوة",
       "name": "Hot Chocolate",
       "description": "الهوت شوكليت هو مشروب كلاسيكي مريح مصنوع من الشوكولاتة الغنية الممزوجة بالحليب المبخر بشكل مثالي.",
-      "price": "€4.30",
+      "price": "€4.50",
       "image": "/images/hot/Hot-Chocolate.avif"
     },
     {
@@ -192,7 +192,7 @@
       "description_category": "بنكة القهوة",
       "name": "Pistachio Hot",
       "description": "بيستاشيو هوت هو مشروب فاخر يمزج الحليب الكريمي مع لمسة من نكهة الفستق.",
-      "price": "€4.50",
+      "price": "€5.00",
       "image": "/images/hot/Picolo.avif"
     },
     {
@@ -201,7 +201,7 @@
       "description_category": "بدون نكهة القهوة",
       "name": "Matcha Latte",
       "description": "ماتشا لاتيه هو مشروب كريمي وأرضي مصنوع بمزج مسحوق الشاي الأخضر ماتشا مع الحليب المبخر.",
-      "price": "€4.50",
+      "price": "€5.00",
       "image": "/images/hot/Hot-Chocolate.avif"
     },
     {
@@ -252,607 +252,599 @@
     {
       "id": 28,
       "category": "فرابتشينو",
-      "name": "Shaghf Frappe",
-      "description": "فرابيه مع تجربة قهوة مثلجة ناعمة ومتوازنة بين الحلاوة والقوة.",
-      "price": "€5.50",
+      "name": "شغف فرابيه",
+      "description": "فرابيه بقهوة مثلجة ناعمة ومتوازنة تمامًا بين الحلاوة والقوة.",
+      "price": "€6.00",
       "image": "/images/Frappuccino/Shaghf-Frappe.avif"
     },
     {
       "id": 29,
       "category": "فرابتشينو",
-      "name": "Pistachio Frappe",
-      "description": "فرابيه الفستق يقدم نكهة ناعمة وجوزية، منعشة وفاخرة، مثالية للاستمتاع بها باردة.",
-      "price": "€5.50",
+      "name": "فرابيه الفستق الحلبي",
+      "description": "فرابيه فستق بنكهة ناعمة وجوزية، بارد ولذيذ، مثالي للاستمتاع المنعش.",
+      "price": "€6.00",
       "image": "/images/Frappuccino/Pistachio-Frappe.avif"
     },
     {
       "id": 30,
       "category": "فرابتشينو",
-      "name": "Creamy Cookies",
-      "description": "مخلوط لقوام ناعم وكريمي، يقدم تجربة حلوة تشبه الحلوى، مثالية لعشاق الكوكيز الباحثين عن متعة باردة.",
-      "price": "€5.00",
+      "name": "كوكيز كريمي",
+      "description": "ممزوج حتى يصبح ناعمًا وكريميًا، بطعم حلو يشبه الحلوى – مثالي لمحبي البسكويت.",
+      "price": "€5.50",
       "image": "/images/Frappuccino/Creamy-Cookies.avif"
     },
-
     {
       "id": 31,
       "category": "فرابتشينو",
-      "name": "Lotus Frappe",
-      "description": "فرابتشينو اللوتس يقدم نكهة حلوة ومتبلة مع قرمشة لذيذة، مثالي لمحبي البسكويت والقهوة.",
-      "price": "€5.00",
+      "name": "فرابيه اللوتس",
+      "description": "نكهة حلوة ومتّبلة مع قوام مقرمش – لمحبي القهوة والبسكويت.",
+      "price": "€5.50",
       "image": "/images/Frappuccino/Lotus-Frappe.avif"
     },
     {
       "id": 32,
       "category": "فرابتشينو",
-      "name": "Crunchy Frappe",
-      "description": "كرانشي فرابتشينو يقدم توازنًا مرضيًا بين الحلاوة الكريمية والقرمشة الممتعة في كل رشفة.",
+      "name": "فرابيه كرنشي",
+      "description": "مزيج متوازن من الحلاوة الكريمية والقرمشة اللذيذة مع كل رشفة.",
       "price": "€5.50",
       "image": "/images/Frappuccino/Crunchy-Frappe.avif"
     },
     {
       "id": 33,
       "category": "فرابتشينو",
-      "name": "Mango Frappe",
-      "description": "ناعم وكريمي، يقدم نكهة استوائية حلوة ومنعشة، مثالية ليوم دافئ.",
-      "price": "€5.00",
+      "name": "فرابيه المانجو",
+      "description": "ناعم وكريمي بطعم استوائي حلو – مثالي لأيام الصيف الحارة.",
+      "price": "€6.00",
       "image": "/images/Frappuccino/Mango-Frappe.avif"
     },
     {
       "id": 34,
       "category": "فرابتشينو",
-      "name": "Locker Frappe",
-      "description": "لوكر فرابتشينو يتميز بملاحظات حلوة وكريمية، مشروب ناعم وفاخر مثالي للباحثين عن مشروب مثلج مرضي.",
+      "name": "لوكر فرابيه",
+      "description": "نكهات حلوة وكريمية فاخرة – تجربة ناعمة ومنعشة.",
       "price": "€5.50",
       "image": "/images/Frappuccino/Locker-Frappe.avif"
     },
     {
       "id": 35,
       "category": "فرابتشينو",
-      "name": "Blueberry Frappe",
-      "description": "متعة فاكهية تقدم نكهة حلوة حامضة مع قوام ناعم وكريمي، مثالية لمشروب بارد فاخر في يوم دافئ.",
-      "price": "€5.00",
+      "name": "بلوبيري فرابيه",
+      "description": "متعة فاكهية بطعم حلو-حامض وقوام كريمي – مثالي للانتعاش.",
+      "price": "€6.00",
       "image": "/images/Frappuccino/Blueberry-Frappe.avif"
     },
     {
       "id": 36,
       "category": "فرابتشينو",
-      "name": "Brownies Frappe",
-      "description": "مخلوط لقوام كريمي، يقدم طعمًا حلوًا بالشوكولاتة مع لمحات من البراوني، مثالي لعشاق الحلويات.",
-      "price": "€5.70",
+      "name": "براونيز فرابيه",
+      "description": "قوام كريمي مع طعم شوكولاتة حلو ولمسة من البراونيز – لعشاق الحلويات.",
+      "price": "€6.00",
       "image": "/images/Frappuccino/Brownies-Frappe.avif"
     },
     {
       "id": 37,
       "category": "فرابتشينو",
-      "name": "Japanese Matcha",
-      "description": "مشروب حيوي وأرضي يقدم نكهة ناعمة وحلوة قليلاً مع قوام كريمي، مثالي لانتعاش بارد مليء بالطاقة.",
+      "name": "ماتشا يابانية",
+      "description": "مشروب نابض بالحياة بطعم ترابي حلو وقوام كريمي – انتعاش منعش ومغذٍ.",
       "price": "€5.50",
       "image": "/images/Frappuccino/Japanese-Matcha.avif"
     },
     {
       "id": 38,
       "category": "فرابتشينو",
-      "name": "Picconova Ice",
-      "description": "بيكونوفا آيس هو متعة ناعمة ومثلجة، يقدم تجربة باردة وفاخرة مع لمسة غنية بالنكهة.",
+      "name": "بيكونوفا آيس",
+      "description": "متعة مثلجة ناعمة بطابع فاخر ونكهة غنية.",
       "price": "€5.50",
       "image": "/images/Frappuccino/Picconova-ice.avif"
     },
     {
       "id": 39,
       "category": "فرابتشينو",
-      "name": "Acai Smoothie",
-      "description": "سموذي الأساي يقدم نكهة حلوة مع لمسة حامضة خفيفة، مشروب منعش وصحي مليء بمضادات الأكسدة.",
-      "price": "€6.00",
+      "name": "سموذي الأساي",
+      "description": "نكهة حلوة مع لمسة حموضة – مشروب صحي ومنعش وغني بمضادات الأكسدة.",
+      "price": "€7.50",
       "image": "/images/Frappuccino/Acai-Smoothie.avif"
     },
     {
       "id": 40,
       "category": "فرابتشينو",
-      "name": "Cinnamon Frappe",
-      "description": "سينامون فرابتشينو يتمتع بقوام ناعم وكريمي، يقدم نكهة حلوة ومتبلة بدفء القرفة، مثالي لمن يحبون الانتعاش الممزوج بالدفء.",
-      "price": "€5.00",
+      "name": "فرابيه القرفة",
+      "description": "قوام ناعم وكريمي بطعم حلو ومتبل بدفء القرفة – مثالي للراحة والانتعاش.",
+      "price": "€5.50",
       "image": "/images/Frappuccino/Cinnamon-Frappe.avif"
     },
     {
       "id": 41,
       "category": "فرابتشينو",
-      "name": "Caramel Frappe",
-      "description": "كراميل فرابتشينو هو مشروب قهوة مثلج كريمي وفاخر مصنوع من الثلج المسحوق والحليب وصوص الكراميل الغني.",
+      "name": "فرابيه الكراميل",
+      "description": "مشروب قهوة مثلج كريمي مع حليب وشراب الكراميل الغني.",
       "price": "€5.00",
       "image": "/images/Frappuccino/Caramel-Frappe.avif"
     },
     {
       "id": 42,
       "category": "فرابتشينو",
-      "name": "Sukkari Dates Frappe",
-      "description": "نكهة من التقاليد في كل رشفة! استمتع بروعة فرابتشينو تمر السكري.",
+      "name": "فرابيه تمر سكري",
+      "description": "لمسة من التقاليد في كل رشفة! استمتع بروعة تمر السكري.",
       "price": "€5.50",
       "image": "/images/Frappuccino/Sukkari-Dates-Frappe.avif"
     },
     {
       "id": 43,
       "category": "فرابتشينو",
-      "name": "Mango Dates Frappe",
-      "description": "ارتشف شيئًا مميزًا! فرابتشينو المانجو بالتمر مزيج مثالي من الأصالة والانتعاش.",
-      "price": "€5.50",
+      "name": "فرابيه مانجو وتمر",
+      "description": "تجربة مميزة! مزيج مثالي من المانجو الطازج وتمور السكري.",
+      "price": "€6.00",
       "image": "/images/Frappuccino/Mango-Dates-Frappe.avif"
     },
     {
       "id": 44,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "Charcoal Latte",
-      "description": "مشروب قهوة بارد جريء ومنقٍ غني بالفحم النشط والإسبريسو.",
-      "price": "€4.50",
+      "description_category": "بنكهة القهوة",
+      "name": "لاتيه الفحم",
+      "description": "مشروب بارد قوي ومُزيل للسموم يحتوي على الفحم النشط والإسبريسو.",
+      "price": "5.00€",
       "image": "/images/cold/Charcoal-Latte.avif"
     },
     {
       "id": 45,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "Coconut Latte",
-      "description": "لمسة استوائية على اللاتيه المثلج الكلاسيكي مع إسبريسو ناعم وحليب جوز الهند الكريمي.",
-      "price": "€5.00",
+      "description_category": "بنكهة القهوة",
+      "name": "لاتيه جوز الهند",
+      "description": "نسخة استوائية من اللاتيه المثلج الكلاسيكي مع إسبريسو ناعم وحليب جوز الهند الكريمي.",
+      "price": "5.00€",
       "image": "/images/cold/Coconut-Latte.avif"
-    },
-    {
-      "id": 4600,
-      "category": "بارد",
-      "description_category": "بدون نكهة القهوة",
-      "name": "مياه معدنية",
-      "description": "مياه معدنية باردة ونقية تمنحك الانتعاش والترطيب.",
-      "price": "€2.50",
-      "image": "/images/cold/water.jpg"
     },
     {
       "id": 46,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "Latte Cold",
-      "description": "مزيج منعش من الحليب البارد والإسبريسو يقدم مع الثلج لتجربة قهوة باردة كلاسيكية.",
-      "price": "€5.00",
+      "description_category": "بنكهة القهوة",
+      "name": "لاتيه بارد",
+      "description": "مزيج منعش من الحليب البارد والإسبريسو يُقدم مع الثلج لتجربة قهوة باردة كلاسيكية.",
+      "price": "5.00€",
       "image": "/images/cold/Latte-Cold.avif"
     },
     {
       "id": 47,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "Dates Cold",
-      "description": "قهوة مثلجة ناعمة محلاة طبيعيًا بالتمر لنكهة غنية ومميزة.",
-      "price": "€5.30",
+      "description_category": "بنكهة القهوة",
+      "name": "قهوة التمر الباردة",
+      "description": "قهوة مثلجة ناعمة مُحلاة طبيعيًا بالتمر لمذاق غني وغريب.",
+      "price": "5.50€",
       "image": "/images/cold/Dates-Cold.avif"
     },
     {
       "id": 48,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "Iced Americano",
-      "description": "إسبريسو قوي ومنعش مخفف بالماء البارد ويقدم مع الثلج.",
-      "price": "€3.80",
+      "description_category": "بنكهة القهوة",
+      "name": "أمريكانو مثلج",
+      "description": "إسبريسو قوي ومنعش مع ماء بارد ويُقدم مع الثلج.",
+      "price": "4.00€",
       "image": "/images/cold/Iced-Americano.avif"
     },
     {
       "id": 49,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "Movie Latte",
-      "description": "مشروب قهوة مثلجة حلو ودافئ يذكرك بمتعة ليالي الأفلام.",
-      "price": "€5.00",
+      "description_category": "بنكهة القهوة",
+      "name": "موفي لاتيه",
+      "description": "قهوة مثلجة حلوة ومريحة مستوحاة من ليالي الأفلام.",
+      "price": "5.00€",
       "image": "/images/cold/Movie-Latte.avif"
     },
     {
       "id": 50,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "Salted Caramel",
-      "description": "لاتيه مثلج محلى بصوص الكراميل المملح الفاخر، مثالي لتدليل صيفي.",
-      "price": "€5.00",
+      "description_category": "بنكهة القهوة",
+      "name": "كراميل مملح",
+      "description": "لاتيه مثلج مُحلى بشراب الكراميل المملح – مثالي للاستمتاع في الصيف.",
+      "price": "5.00€",
       "image": "/images/cold/Salted-Caramel.avif"
     },
     {
       "id": 51,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "Spanish Latte",
-      "description": "قهوة مثلجة كريمية مع حليب مكثف محلى لنكهة ناعمة وحلوة.",
-      "price": "€5.00",
+      "description_category": "بنكهة القهوة",
+      "name": "لاتيه إسباني",
+      "description": "قهوة مثلجة كريمية مع حليب مكثف محلى لمذاق ناعم وحلو.",
+      "price": "5.00€",
       "image": "/images/cold/Spanish-Latte.avif"
     },
     {
       "id": 52,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "Habibi Latte",
-      "description": "لاتيه مثلج مستوحى من الشرق الأوسط بمزيج متوازن من البهارات والإسبريسو.",
-      "price": "€5.00",
+      "description_category": "بنكهة القهوة",
+      "name": "لاتيه حبيبي",
+      "description": "لاتيه مثلج مستوحى من نكهات الشرق الأوسط بمزيج متوازن من التوابل والإسبريسو.",
+      "price": "5.00€",
       "image": "/images/cold/Habibi-Latte.avif"
     },
     {
       "id": 53,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "Oat Milk Espresso shaken",
-      "description": "مشروب إسبريسو مثلج خالي من الألبان مخلوط مع حليب الشوفان الكريمي لمذاق خفيف لكنه جريء.",
-      "price": "€5.50",
+      "description_category": "بنكهة القهوة",
+      "name": "إسبريسو مع حليب الشوفان (مخفوق)",
+      "description": "مشروب إسبريسو بارد خالٍ من الحليب، مخفوق مع حليب الشوفان الكريمي لمذاق خفيف وقوي.",
+      "price": "5.50€",
       "image": "/images/cold/Oat-Milk-Espresso.avif"
     },
     {
       "id": 54,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "Twist Caramel",
-      "description": "لمسة لذيذة على القهوة المثلجة مع الكراميل لتوازن رائع بين القوة والحلاوة.",
-      "price": "€5.00",
+      "description_category": "بنكهة القهوة",
+      "name": "تويست كراميل",
+      "description": "تويست قهوة مثلجة لذيذ مع الكراميل لموازنة رائعة بين القوة والحلاوة.",
+      "price": "5.00€",
       "image": "/images/cold/Twist-Caramel.avif"
     },
     {
       "id": 55,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "Classic Dirty Coffee",
-      "description": "حليب بارد يصب فوق شوت إسبريسو — بسيط، جريء، ومرضٍ.",
-      "price": "€4.00",
+      "description_category": "بنكهة القهوة",
+      "name": "قهوة ديرتي كلاسيكية",
+      "description": "حليب بارد يُسكب فوق شوت إسبريسو – بسيط، قوي ومُرضي.",
+      "price": "4.00€",
       "image": "/images/cold/Classic-Dirty-Coffee.avif"
     },
     {
       "id": 56,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "Mocha Dirty Coffee",
-      "description": "مزيج غني من الإسبريسو والشوكولاتة يقدم مثلجًا لعشاق الموكا.",
-      "price": "€4.50",
+      "description_category": "بنكهة القهوة",
+      "name": "موكا ديرتي",
+      "description": "دمج غني بين الإسبريسو والشوكولاتة يُقدم باردًا لمحبي الموكا.",
+      "price": "4.50€",
       "image": "/images/cold/Mocha-Dirty-Coffee.avif"
     },
     {
       "id": 57,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "Coconut Matcha Dirty Coffee",
-      "description": "مزيج فريد من الإسبريسو والمااتشا وحليب جوز الهند لمشروب كريمي ومنعش.",
-      "price": "€4.50",
+      "description_category": "بنكهة القهوة",
+      "name": "ديرتي ماتشا بجوز الهند",
+      "description": "مزيج فريد من الإسبريسو والماتشا وحليب جوز الهند لمتعة كريمية ومنعشة.",
+      "price": "5.50€",
       "image": "/images/cold/Coconut-Matcha-Dirty-Coffee.avif"
     },
     {
       "id": 58,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "Matcha Dirty Coffee",
-      "description": "شاي الماتشا الأخضر المميز ممزوج مع الإسبريسو والثلج لنكهة ترابية مميزة.",
-      "price": "€4.50",
+      "description_category": "بنكهة القهوة",
+      "name": "ماتشا ديرتي",
+      "description": "شاي الماتشا الأخضر الحيوي ممزوج مع الإسبريسو والثلج لمذاق ترابي لذيذ.",
+      "price": "5.50€",
       "image": "/images/cold/Matcha-Dirty-Coffee.avif"
     },
     {
       "id": 59,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "Matcha Coconut Cloud",
-      "description": "ماتشا وجوز الهند مخلوطان فوق الثلج لمشروب صيفي هادئ، حلو، ومرضي.",
-      "price": "€4.50",
+      "description_category": "بنكهة القهوة",
+      "name": "سحابة ماتشا بجوز الهند",
+      "description": "ماتشا وجوز الهند ممزوجين على الثلج لمشروب صيفي هادئ، حلو ومُرضي.",
+      "price": "5.50€",
       "image": "/images/cold/macha-coun.jpg"
     },
     {
       "id": 60,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "Hazel Nut Dirty",
-      "description": "إسبريسو مثلج مملوء بصوص البندق الحلو لمشروب جوزي وكريمي منعش.",
-      "price": "€4.50",
+      "description_category": "بنكهة القهوة",
+      "name": "ديرتي بندق",
+      "description": "إسبريسو بارد مع شراب البندق الحلو لمشروب منعش، كريمي ومُكسراتي.",
+      "price": "5.00€",
       "image": "/images/cold/Hazel-Nut-Dirty.avif"
     },
     {
       "id": 61,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "Kinder Latte",
-      "description": "قهوة مثلجة مستوحاة من الحلويات مع إسبريسو كريمي ولمسات شوكولاتة كيندر.",
-      "price": "€4.50",
+      "description_category": "بنكهة القهوة",
+      "name": "لاتيه كيندر",
+      "description": "قهوة مثلجة مستوحاة من الحلوى مع نكهات شوكولاتة كيندر وكريمة الإسبريسو.",
+      "price": "5.00€",
       "image": "/images/cold/Kinder-Latte.avif"
     },
     {
       "id": 62,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "White Mocha",
-      "description": "قهوة مثلجة ناعمة وحلوة من الشوكولاتة البيضاء مغطاة بالحليب الكريمي والإسبريسو.",
-      "price": "€4.70",
+      "description_category": "بنكهة القهوة",
+      "name": "وايت موكا",
+      "description": "قهوة مثلجة حريرية بنكهة الشوكولاتة البيضاء تعلوها الحليب الكريمي والإسبريسو.",
+      "price": "5.00€",
       "image": "/images/cold/White-Mocha.avif"
     },
     {
       "id": 63,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "Pistachio Latte",
-      "description": "قهوة مثلجة كريمية بنكهة الفستق لمذاق فاخر ومميز.",
-      "price": "€5.00",
+      "description_category": "بنكهة القهوة",
+      "name": "لاتيه الفستق",
+      "description": "قهوة مثلجة كريمية بنكهة الفستق الفاخرة لإحساس راقٍ.",
+      "price": "5.50€",
       "image": "/images/cold/Pistachio-Latte.avif"
     },
     {
       "id": 64,
       "category": "بارد",
-      "description_category": "بنكة القهوة",
-      "name": "White Mocha Crack",
-      "description": "لمسة مقرمشة على مشروب الوايت موكا المثلج الكلاسيكي — اكسرها واستمتع!",
-      "price": "€5.00",
+      "description_category": "بنكهة القهوة",
+      "name": "وايت موكا كراك",
+      "description": "نسخة مقرمشة من قهوة الوايت موكا الكلاسيكية المثلجة — استمتع بالقرمشة!",
+      "price": "5.00€",
       "image": "/images/cold/White-Mocha-Crack.avif"
     },
     {
       "id": 65,
       "category": "بارد",
-      "description_category": "بدون نكهة القهوة",
-      "name": "Baby Chino",
-      "description": "مشروب ممتع رغوي قائم على الحليب بدون قهوة، مثالي للأطفال أو من يتجنبون الكافيين.",
-      "price": "€4.80",
+      "description_category": "بدون قهوة",
+      "name": "بيبي شينو",
+      "description": "مشروب حليبي رغوي ممتع بدون قهوة — مثالي للأطفال أو من يتجنبون الكافيين.",
+      "price": "3.00€",
       "image": "/images/cold/Baby-Chino.avif"
     },
     {
       "id": 66,
       "category": "بارد",
-      "description_category": "بدون نكهة القهوة",
-      "name": "Hibiscus Tea",
-      "description": "شاي عشبي بارد من الكركديه الزهري الحامض لإنعاش طبيعي حيوي.",
-      "price": "€5.50",
+      "description_category": "بدون قهوة",
+      "name": "شاي الكركديه",
+      "description": "شاي عشبي بارد ذو نكهة زهرية منعشة وحموضة خفيفة.",
+      "price": "5.50€",
       "image": "/images/cold/Hibiscus-Tea.avif"
     },
     {
       "id": 67,
       "category": "بارد",
-      "description_category": "بدون نكهة القهوة",
-      "name": "Hibiscus Watermelon",
-      "description": "المزيج المثالي من الكركديه الزهري والبطيخ العصير لمشروب بارد ومنعش.",
-      "price": "€5.50",
+      "description_category": "بدون قهوة",
+      "name": "كركديه وبطيخ",
+      "description": "مزيج مثالي من الكركديه الزهري والبطيخ العصيري لمشروب منعش حيوي.",
+      "price": "5.50€",
       "image": "/images/cold/Hibiscus-Watermelon.avif"
     },
     {
       "id": 68,
       "category": "بارد",
-      "description_category": "بدون نكهة القهوة",
-      "name": "Salted Vanilla Ice Matcha",
-      "description": "الفانيلا الحلوة والماتشا تمتزجان في هذا المشروب المثلج مع لمسة مالحة لعشاق الشاي.",
-      "price": "€4.80",
+      "description_category": "بدون قهوة",
+      "name": "ماتشا مثلج بفانيليا مالحة",
+      "description": "فانيليا حلوة وماتشا تندمج في هذا الشاي المثلج مع لمسة مالحة خفيفة.",
+      "price": "5.50€",
       "image": "/images/cold/Salted-Vanilla-Ice-Matcha.avif"
     },
     {
       "id": 69,
       "category": "بارد",
-      "description_category": "بدون نكهة القهوة",
-      "name": "White Matcha Crack",
-      "description": "ماتشا وشوكولاتة بيضاء مخلوطان فوق الثلج بقوام كريمي ولمسة مقرمشة حلوة.",
-      "price": "€4.70",
+      "description_category": "بدون قهوة",
+      "name": "وايت ماتشا كراك",
+      "description": "ماتشا وشوكولاتة بيضاء على الثلج بمزيج كريمي وقرمشة حلوة.",
+      "price": "5.50€",
       "image": "/images/cold/White-Matcha-Crack.avif"
     },
     {
       "id": 70,
       "category": "بارد",
-      "description_category": "بدون نكهة القهوة",
-      "name": "Lemon Breeze Strawberry",
-      "description": "الفراولة والليمون يلتقيان في هذا المشروب المثلج لتناغم حلو حامض.",
-      "price": "€5.50",
+      "description_category": "بدون قهوة",
+      "name": "ليمون بالفراولة",
+      "description": "فراولة وليمون يندمجان في مشروب مثلج بمذاق حلو وحامض منعش.",
+      "price": "5.50€",
       "image": "/images/cold/Lemon-Breeze-Strawberry.avif"
     },
     {
       "id": 71,
       "category": "بارد",
-      "description_category": "بدون نكهة القهوة",
-      "name": "Lemon Breeze Watermelon",
-      "description": "مشروب صيفي فاكهي ومنعش يمزج عصير البطيخ الطازج مع الليمون فوق الثلج.",
-      "price": "€5.50",
+      "description_category": "بدون قهوة",
+      "name": "ليمون بالبطيخ",
+      "description": "مشروب صيفي فاكهي ومنعش من عصير البطيخ والليمون على الثلج.",
+      "price": "5.50€",
       "image": "/images/cold/Lemon-Breeze-Watermelon.avif"
     },
     {
       "id": 72,
       "category": "بارد",
-      "description_category": "بدون نكهة القهوة",
-      "name": "Lemon Breeze Passion",
+      "description_category": "بدون قهوة",
+      "name": "ليمون بالباسيون",
       "description": "مزيج استوائي من فاكهة الباشن فروت والليمون في مشروب بارد ومنعش.",
-      "price": "€5.50",
+      "price": "5.50€",
       "image": "/images/cold/Lemon-Breeze-Passion.avif"
     },
     {
       "id": 73,
       "category": "بارد",
-      "description_category": "بدون نكهة القهوة",
-      "name": "Peach Tea",
-      "description": "شاي مثلج حلو وعصيري مملوء بنكهة الخوخ الطازج لانتعاش مميز.",
-      "price": "€5.00",
+      "description_category": "بدون قهوة",
+      "name": "شاي الخوخ",
+      "description": "شاي مثلج حلو وعصيري بنكهة الخوخ الغنية لتجربة منعشة.",
+      "price": "5.50€",
       "image": "/images/cold/Peach-Tea.avif"
     },
     {
       "id": 74,
       "category": "حلويات",
-      "name": "Acai",
+      "name": "أساي",
       "image": "/images/Dessert/Acai.avif",
-      "description": "طبق الآساي المليء بالفواكه، الجرانولا، وتوبينغ صحي آخر، ليكون اختيارًا شائعًا للمأكولات المنعشة والمغذية.",
-      "price": "€5.50"
+      "description": "طبق أساي مليء بالفواكه، الجرانولا، وتوبينغ صحي – خيار مثالي لوجبة خفيفة مغذية ومنعشة.",
+      "price": "€7.50",
+      "comingSoon": "قريباً"
     },
     {
       "id": 75,
       "category": "حلويات",
-      "name": "Kinder Sauce",
+      "name": "صوص كيندر",
       "image": "/images/Dessert/Kinder-Sauce.avif",
       "description": "صوص كيندر هو صوص حلو وكريمي مستوحى من شوكولاتة كيندر الشهيرة.",
-      "price": "€5.0"
+      "price": "€5.00",
+      "comingSoon": "قريباً"
     },
     {
       "id": 76,
       "category": "حلويات",
-      "name": "Shaghf Tart",
+      "name": "تارت شغف",
       "image": "/images/Dessert/Shaghf-Tart.avif",
-      "description": "حلوى شهية في شغف لأولئك الذين يتوقون إلى حلوى راقية مليئة بالنكهات.",
-      "price": "€4.70",
-      "comingSoon": "قريبًا"
+      "description": "تحلية شهية لعشاق الطعم الفاخر والمذاق الراقي من شغف.",
+      "price": "€5.00",
+      "comingSoon": "قريباً"
     },
     {
       "id": 77,
       "category": "حلويات",
-      "name": "Biet Brownies",
+      "name": "براونيز البيت",
       "image": "/images/Dessert/Biet-Brownies.avif",
-      "description": "براونيز غنية وفاخرة مصنوعة بمزيج من مكونات عالية الجودة لقوام كثيف ولذيذ.",
-      "price": "€2.00"
+      "description": "براونيز غنية وفاخرة بمكونات عالية الجودة وقوام ناعم وكثيف.",
+      "price": "€4.00"
     },
     {
       "id": 78,
       "category": "حلويات",
-      "name": "Cinnamon Nutella",
+      "name": "سينامون نوتيلا",
       "image": "/images/Dessert/Cinnamon-Nutella.avif",
-      "description": "حلوى لذيذة تجمع بين طعم القرفة الدافئ الغني ونوتيلا الكريمية الشهية.",
+      "description": "مزيج رائع من طعم القرفة الدافئ مع كريمة النوتيلا الغنية.",
       "price": "€5.50"
     },
     {
       "id": 79,
       "category": "حلويات",
-      "name": "Cinnamon Balls Kinder",
+      "name": "كرات القرفة كيندر",
       "image": "/images/Dessert/Cinnamon-Balls-Kinder.avif",
-      "description": "مزيج من دفء القرفة وحلاوة شوكولاتة كيندر الغنية، لخلق توازن مثالي بين النكهات والقوام.",
+      "description": "مزيج من نكهة القرفة الدافئة وشوكولاتة كيندر الحلوة.",
       "price": "€5.50"
     },
     {
       "id": 80,
       "category": "حلويات",
-      "name": "Carrot Cake",
+      "name": "كيك الجزر",
       "image": "/images/Dessert/Carrot-Cake.avif",
-      "description": "تحلية مريحة وفاخرة يستمتع بها الكثيرون لقوامها الناعم ونكهاتها العطرية.",
-      "price": "€4.50",
-      "comingSoon": "قريبًا"
+      "description": "تحلية مريحة وفاخرة بقوام ناعم ونكهات عطرية مميزة.",
+      "price": "€5.00",
+      "comingSoon": "قريباً"
     },
     {
       "id": 81,
       "category": "حلويات",
-      "name": "Chocolate Dream Cake",
+      "name": "تشوكلت دريم كيك",
       "image": "/images/Dessert/Chocolate-Dream-Cake.avif",
-      "description": "كيك الشوكولاتة الحالم غني وفاخر مكون من طبقات من كيك الشوكولاتة الرطب.",
+      "description": "كيك شوكولاتة غني ومترف بطبقات من الكيك الطري بالشوكولاتة.",
       "price": "€6.00"
     },
     {
       "id": 82,
       "category": "حلويات",
-      "name": "Zaatar Croissants",
+      "name": "كرواسون الزعتر",
       "image": "/images/Dessert/Zaatar-Croissants.avif",
-      "description": "توازن مثالي بين المعجنات الغنية بالزبدة وطعم الزعتر العطري المنعش، مما يجعلها خيارًا فريدًا ولذيذًا.",
-      "price": "€2.80"
+      "description": "مزيج مثالي من العجينة الزبدية ونكهة الزعتر العطرية – لذيذ وفريد.",
+      "price": "€3.00"
     },
     {
       "id": 83,
       "category": "حلويات",
-      "name": "Cheese Croissants",
+      "name": "كرواسون الجبنة",
       "image": "/images/Dessert/Cheese-Croissants.avif",
-      "description": "توازن شهي بين الجبن المالح وقوام الكرواسون الخفيف والمقرمش، مما يجعلها خيارًا رائعًا للإفطار أو الوجبات الخفيفة.",
-      "price": "€2.80"
+      "description": "مزيج لذيذ من الجبنة المالحة وعجينة الكرواسون الخفيفة والمقرمشة – مثالي للفطور أو سناك.",
+      "price": "€3.00"
     },
     {
       "id": 84,
       "category": "حلويات",
-      "name": "Nutella Coffle",
+      "name": "نوتيلا كروفل",
       "image": "/images/Dessert/Nutella-Coffle.avif",
-      "description": "مزيج من القشرة المقرمشة الغنية بالزبدة وحشوة نوتيلا الشهية، لوجبة مميزة وممتعة.",
-      "price": "€4.50"
+      "description": "قوام مقرمش وزبدة من الخارج مع حشوة نوتيلا لذيذة – تجربة ممتعة ومشبعة.",
+      "price": "€5.00"
     },
     {
       "id": 85,
       "category": "حلويات",
-      "name": "San Sabastian White",
+      "name": "سان سباستيان وايت",
       "image": "/images/Dessert/San-Sabastian-White.avif",
-      "description": "تشيز كيك سان سباستيان الأبيض الكريمي مع حشوة غنية بالشوكولاتة البيضاء وطبقة علوية مكرملة تقدم لمسة فاخرة.",
+      "description": "تشيز كيك فاخر بكريمة الشوكولاتة البيضاء وسطح مكرمل.",
       "price": "€4.50"
     },
     {
       "id": 86,
       "category": "حلويات",
-      "name": "San Sabastian Chocolate",
+      "name": "سان سباستيان شوكولاتة",
       "image": "/images/Dessert/San-Sabastian-Chocolate.avif",
-      "description": "إصدار غني من التشيز كيك الكلاسيكي بحشوة كريمية من الشوكولاتة وطبقة علوية مكرملة قليلاً.",
+      "description": "نسخة فاخرة من التشيز كيك الكلاسيكي بحشوة شوكولاتة كريمية وسطح مكرمل.",
       "price": "€4.50"
     },
     {
       "id": 87,
       "category": "حلويات",
-      "name": "Tiramisu Cake",
+      "name": "تيراميسو كيك",
       "image": "/images/Dessert/Tiramisu-Cake.avif",
-      "description": "كيك التيراميسو مكون من طبقات تجمع النكهات الكلاسيكية للتيراميسو في صورة كيك.",
-      "price": "€5.00"
+      "description": "كيك بطبقات بنكهة التيراميسو الكلاسيكية.",
+      "price": "€5.50"
     },
     {
       "id": 87888,
       "category": "حلويات",
       "name": "ريد فيلفت كيك",
       "image": "/images/Dessert/Red-Velvet-Cake.jpg",
-      "description": "كيك ريد فيلفت غني وطري بطبقات من كريمة الجبن الناعمة ومزيج التوت الشهي — مزيج مثالي من النعومة المخملية ونكهة التوت المنعشة.",
-      "price": "€6.00"
+      "description": "ريد فيلفت كيك بطبقات غنية وكريمة الجبنة وفواكه مهروسة – مزيج رائع من النعومة والطعم المميز.",
+      "price": "€6.00",
+      "comingSoon": "قريباً"
     },
     {
       "id": 88,
       "category": "حلويات",
-      "name": "Banana Cake",
+      "name": "كيك الموز",
       "image": "/images/Dessert/Banana-Cake.avif",
-      "description": "كيك موز رطب وحلو مصنوع من الموز الناضج.",
-      "price": "€2.00"
+      "description": "كيك طري وحلو مصنوع من الموز الناضج.",
+      "price": "€3.00"
     },
     {
       "id": 89,
       "category": "حلويات",
-      "name": "Tiramisu",
+      "name": "تيراميسو",
       "image": "/images/Dessert/Tiramisu.avif",
-      "description": "توازن مثالي بين القهوة والحلاوة ولمسة مرارة خفيفة من الكاكاو، ما يجعله تحلية فاخرة.",
-      "price": "€5.00"
+      "description": "توازن مثالي بين القهوة والحلاوة ولمسة من الكاكاو – تجربة فاخرة.",
+      "price": "€4.50"
     },
     {
       "id": 90,
       "category": "حلويات",
-      "name": "Dips Croffle",
+      "name": "ديبس كروفل",
       "image": "/images/Dessert/Dips-Croffle.avif",
-      "description": "توازن لذيذ بين الحلاوة والقوام، ما يجعله وجبة خفيفة أو تحلية ممتعة.",
+      "description": "مزيج لذيذ من الحلاوة والقوام – سناك أو حلى ممتع ومشوق.",
       "price": "€5.50"
     },
     {
       "id": 91,
       "category": "حلويات",
-      "name": "Molten Lava Cake With Coffee",
+      "name": "مولتن لافا كيك بالقهوة",
       "image": "/images/Dessert/Molten-Lava-Cake-With-Coffee.avif",
-      "description": "كيك لافا غني بالشوكولاتة مع مركز دافئ سائل مضاف إليه القهوة.",
-      "price": "€7.00",
-      "comingSoon": "قريبًا"
+      "description": "كيك شوكولاتة غني بحشوة سائلة ولمسة من القهوة.",
+      "price": "€8.00"
     },
     {
       "id": 92,
       "category": "حلويات",
-      "name": "Salted Berry Cheesecake",
+      "name": "تشيز كيك التوت المملح",
       "image": "/images/Dessert/Salted-Berry-Cheesecake.avif",
-      "description": "الملح يعزز حلاوة التوت ويوازن غنى التشيز كيك لخلق مزيج مثالي بين الحلو والمالح.",
+      "description": "الملح يعزز حلاوة التوت ويوازن دسم التشيز كيك – مزيج مثالي.",
       "price": "€4.50",
-      "comingSoon": "قريبًا"
+      "comingSoon": "قريباً"
     },
     {
       "id": 93,
       "category": "حلويات",
-      "name": "Shaghf Kunafa Chocolate",
+      "name": "كنافة شغف بالشوكولاتة",
       "image": "/images/Dessert/Shaghf-Kunafa-Chocolate.avif",
-      "description": "كنافة شوكولاتة هي لمسة لذيذة على الحلوى الشرقية التقليدية.",
+      "description": "كنافة شوكولاتة – لمسة مبتكرة على الحلى الشرقية التقليدية.",
       "price": "€7.00",
-      "comingSoon": "قريبًا"
+      "comingSoon": "قريباً"
     },
     {
       "id": 94,
       "category": "حلويات",
-      "name": "Pumpkin Cake",
+      "name": "كيك اليقطين",
       "image": "/images/Dessert/Pumpkin-Cake.avif",
-      "description": "كيك اليقطين رطب ومليء بالنكهات، مصنوع من يقطين متبل.",
+      "description": "كيك اليقطين الطري والعطري بنكهات التوابل المميزة.",
       "price": "€6.00",
-      "comingSoon": "قريبًا"
+      "comingSoon": "قريباً"
     },
     {
       "id": 95,
       "category": "حلويات",
-      "name": "Shaghf African Pudding",
+      "name": "بودينغ شغف الأفريقي",
       "image": "/images/Dessert/Shaghf-African-Pudding.avif",
-      "description": "طبقات من الحب والغنى والدلال — بودينغ شغف في أبهى صوره!",
+      "description": "طبقات من الحب والغنى والمتعة – أفضل ما في بودينغ شغف!",
       "price": "€5.00"
     },
     {
       "id": 96,
       "category": "حلويات",
-      "name": "Caramel Delights Cookies",
+      "name": "كوكيز كراميل ديلايتس",
       "image": "/images/Dessert/Caramel-Delights-Cookies.avif",
-      "description": "مزيج مثالي من القرمشة الغنية بالزبدة والكراميل الطري الفاخر!",
+      "description": "مزيج مثالي من الطراوة والقرمشة والزبدة مع كراميل غني ومطاط.",
       "price": "€3.50"
     }
   ],
