@@ -232,20 +232,26 @@ const Menu = ({ searchTerm }) => {
     }
   };
 
-  const filterProducts = (categoryName) => {
-    let filtered = products.filter((p) =>
-      p.category.toLowerCase().startsWith(categoryName.toLowerCase())
+const filterProducts = (categoryName) => {
+  let filtered = products.filter(
+    (p) =>
+      p?.category &&
+      p.category.toLowerCase().startsWith(categoryName?.toLowerCase() || "")
+  );
+
+  if (searchTerm) {
+    filtered = filtered.filter(
+      (p) =>
+        (p?.name &&
+          p.name.toLowerCase().includes(searchTerm?.toLowerCase() || "")) ||
+        (p?.description &&
+          p.description.toLowerCase().includes(searchTerm?.toLowerCase() || ""))
     );
-    if (searchTerm) {
-      filtered = filtered.filter(
-        (p) =>
-          p.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-          (p.description &&
-            p.description.toLowerCase().includes(searchTerm.toLowerCase()))
-      );
-    }
-    return filtered;
-  };
+  }
+
+  return filtered;
+};
+
 
   const groupProducts = (products) => {
     return products.reduce((acc, product) => {
