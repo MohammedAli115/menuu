@@ -405,6 +405,23 @@
       "image": "/images/cold/water.jpg"
     },
     {
+  "id": 45555,
+  "category": "Cold",
+  "name": "Tiramisu Latte",
+  "description": "A dessert-inspired coffee made with rich espresso, smooth Spanish milk, indulgent tiramisu cream, and a slice of tiramisu cake for an authentic flavor experience.",
+  "price": "€7.00",
+  "image": "/images/cold/Tiramisu-Latte.jpg"
+},
+{
+  "id": 455455,
+  "category": "Cold",
+  "name": "Red Velvet Latte",
+  "description": "A creamy and vibrant blend of espresso, Spanish milk, and luscious red velvet sauce, creating a unique coffee with a hint of chocolate sweetness.",
+  "price": "€6.50",
+  "image": "/images/cold/Red-Velvet-Latte.jpg"
+}
+,
+    {
       "id": 46,
       "category": "Cold",
       "description_category": "With coffee flavor",

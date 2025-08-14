@@ -396,6 +396,21 @@
       "image": "/images/cold/Coconut-Latte.avif"
     },
     {
+      "id" :45555,
+      "category": "Kalt",
+      "name" :"Tiramisu Latte",
+      "description" :"A dessert-inspired coffee made with rich espresso, smooth Spanish milk, indulgent tiramisu cream, and a slice of tiramisu cake for an authentic flavor experience.",
+      "price": "€7.00",
+      "image": "/images/cold/Tiramisu-Latte.jpg"
+    },
+    {      "id" :455455,
+      "category": "Kalt",
+      "name" :"Red Velvet Latte",
+      "description" :"A creamy and vibrant blend of espresso, Spanish milk, and luscious red velvet sauce, creating a unique coffee with a hint of chocolate sweetness.",
+      "price": "€6.50",
+      "image": "/images/cold/Red-Velvet-Latte.jpg"
+    },
+    {
       "id": 46,
       "category": "Kalt",
       "description_category": "Ohne Kaffeegeschmack",
@@ -680,8 +695,7 @@
       "name": "Shaghf Tart",
       "image": "/images/Dessert/Shaghf-Tart.avif",
       "description": "Ein köstliches Dessert bei Shaghf für alle, die sich nach einer raffinierten und geschmackvollen Süßigkeit sehnen.",
-      "price": "€5.00",
-      "comingSoon": "bald verfügbar"
+      "price": "€5.00"
     },
     {
       "id": 77,
@@ -778,8 +792,7 @@
       "name": "Red Velvet Kuchen",
       "image": "/images/Dessert/Red-Velvet-Cake.jpg",
       "description": "Ein reichhaltiger und saftiger Red Velvet Kuchen, geschichtet mit cremigem Frischkäse-Frosting und köstlichem Beerenpüree — eine perfekte Fusion aus samtiger Weichheit und lebendigem Beerengeschmack.",
-      "price": "€6.00",
-      "comingSoon": "bald verfügbar"
+      "price": "€6.00"
     },
     {
       "id": 88,
