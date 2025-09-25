@@ -241,6 +241,42 @@
       "image": "/images/hot/Korean-Maccito.avif"
     },
     {
+    "id": 610,
+    "category": "Hot",
+    "description_category": "بنكهة القهوة",
+    "name": "القهوة التركية",
+    "description": "قهوة تركية تقليدية تُحضر على نار هادئة لتعطي مذاقاً قوياً ورائحة غنية.",
+    "price": "€3.20",
+    "image": "/images/hot/trand.jpg"
+  },
+  {
+    "id": 620,
+    "category": "Hot",
+    "description_category": "بنكهة القهوة",
+    "name": "القهوة العربية",
+    "description": "قهوة عربية أصلية تُحضر بحبوب محمصة خفيفة وتُنكه بالهيل لتمنح مذاقاً ناعماً وعطراً مميزاً.",
+    "price": "€3.20",
+    "image": "/images/hot/trand.jpg"
+  },
+  {
+    "id": 630,
+    "category": "Hot",
+    "description_category": "بنكهة القهوة",
+    "name": "القهوة بدون كافيين",
+    "description": "فنجان قهوة ناعم بدون كافيين، يحافظ على الطعم الغني ويكون خفيفاً على الجسم.",
+    "price": "€3.50",
+    "image": "/images/hot/with.jpg"
+  },
+  {
+    "id": 640,
+    "category": "Hot",
+    "description_category": "بدون نكهة القهوة",
+    "name": "الشاي الأسود",
+    "description": "كوب كلاسيكي من الشاي الأسود (شاي)، يُقدم ساخناً بمذاق متوازن ومنعش.",
+    "price": "€1.50",
+    "image": "/images/hot/shay.jpg"
+  },
+    {
       "id": 27,
       "category": "ساخنة",
       "description_category": "بنكة القهوة",

@@ -241,6 +241,40 @@
       "image": "/images/hot/Korean-Maccito.avif"
     },
     {
+    "id": 610,
+    "category": "Hot",
+    "description_category": "Mit Kaffeegeschmack",
+    "name": "Türkischer Mokka",
+    "description": "Traditioneller türkischer Mokka, langsam bei niedriger Hitze zubereitet, mit kräftigem Geschmack und reichem Aroma.",
+    "price": "€3.20",
+    "image": "/images/hot/trand.jpg"  },
+  {
+    "id": 620,
+    "category": "Hot",
+    "description_category": "Mit Kaffeegeschmack",
+    "name": "Arabischer Mokka",
+    "description": "Authentischer arabischer Mokka, mit hell gerösteten Bohnen und Kardamom für einen sanften, aromatischen Geschmack.",
+    "price": "€3.20",
+    "image": "/images/hot/trand.jpg"  },
+  {
+    "id": 630,
+    "category": "Hot",
+    "description_category": "Mit Kaffeegeschmack",
+    "name": "Entkoffeinierter Kaffee",
+    "description": "Eine sanfte Tasse Kaffee ohne Koffein, die den vollen Geschmack bewahrt und zugleich bekömmlich ist.",
+    "price": "€3.50",
+    "image": "/images/hot/with.jpg"
+  },
+  {
+    "id": 640,
+    "category": "Hot",
+    "description_category": "Ohne Kaffeegeschmack",
+    "name": "Schwarzer Tee",
+    "description": "Eine klassische Tasse schwarzer Tee (Çay), heiß serviert mit einem ausgewogenen, erfrischenden Geschmack.",
+    "price": "€1.50",
+    "image": "/images/hot/shay.jpg"
+  },
+    {
       "id": 27,
       "category": "Heiß",
       "description_category": "Mit Kaffeegeschmack",

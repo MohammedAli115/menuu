@@ -240,6 +240,42 @@
       "price": "€3.06",
       "image": "/images/hot/Korean-Maccito.avif"
     },
+      {
+    "id": 610,
+    "category": "Hot",
+    "description_category": "With coffee flavor",
+    "name": "Turkish Coffee",
+    "description": "Traditional Turkish coffee brewed slowly over low heat, offering a strong flavor and rich aroma.",
+    "price": "€3.20",
+    "image": "/images/hot/trand.jpg"
+  },
+  {
+    "id": 620,
+    "category": "Hot",
+    "description_category": "With coffee flavor",
+    "name": "Arabic Coffee",
+    "description": "Authentic Arabic coffee prepared with light roast beans and flavored with cardamom for a smooth, aromatic taste.",
+    "price": "€3.20",
+    "image": "/images/hot/trand.jpg"
+  },
+  {
+    "id": 630,
+    "category": "Hot",
+    "description_category": "With coffee flavor",
+    "name": "Decaffeinated Coffee",
+    "description": "A smooth cup of coffee without caffeine, keeping the rich taste while being gentle on your body.",
+    "price": "€3.50",
+    "image": "/images/hot/with.jpg"
+  },
+  {
+    "id": 640,
+    "category": "Hot",
+    "description_category": "Without coffee flavor",
+    "name": "Black Tea",
+    "description": "A classic cup of black tea (Çay), served hot with a balanced, refreshing taste.",
+    "price": "€1.50",
+    "image": "/images/hot/shay.jpg"
+  },
     {
       "id": 27,
       "category": "Hot",
