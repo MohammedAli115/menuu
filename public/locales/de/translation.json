@@ -242,7 +242,7 @@
     },
     {
     "id": 610,
-    "category": "Hot",
+    "category": "Heiß",
     "description_category": "Mit Kaffeegeschmack",
     "name": "Türkischer Mokka",
     "description": "Traditioneller türkischer Mokka, langsam bei niedriger Hitze zubereitet, mit kräftigem Geschmack und reichem Aroma.",
@@ -250,7 +250,7 @@
     "image": "/images/hot/trand.jpg"  },
   {
     "id": 620,
-    "category": "Hot",
+    "category": "Heiß",
     "description_category": "Mit Kaffeegeschmack",
     "name": "Arabischer Mokka",
     "description": "Authentischer arabischer Mokka, mit hell gerösteten Bohnen und Kardamom für einen sanften, aromatischen Geschmack.",
@@ -258,7 +258,7 @@
     "image": "/images/hot/trand.jpg"  },
   {
     "id": 630,
-    "category": "Hot",
+    "category": "Heiß",
     "description_category": "Mit Kaffeegeschmack",
     "name": "Entkoffeinierter Kaffee",
     "description": "Eine sanfte Tasse Kaffee ohne Koffein, die den vollen Geschmack bewahrt und zugleich bekömmlich ist.",
@@ -267,7 +267,7 @@
   },
   {
     "id": 640,
-    "category": "Hot",
+    "category": "Heiß",
     "description_category": "Ohne Kaffeegeschmack",
     "name": "Schwarzer Tee",
     "description": "Eine klassische Tasse schwarzer Tee (Çay), heiß serviert mit einem ausgewogenen, erfrischenden Geschmack.",
