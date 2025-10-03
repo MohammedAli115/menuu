@@ -1,5 +1,6 @@
 {
   "menu": {
+    "new": "Neu",
     "specialty": "Spezialitätenkaffee",
     "hot": "Heiß",
     "frappuccino": "Frappuccino",
@@ -7,6 +8,30 @@
     "dessert": "Dessert"
   },
   "products": [
+    {
+      "id": 102,
+      "category": "Neu",
+      "name": "Pumpkin Spice Frappe",
+      "description": "Pumpkin Spice Frappe – Ein cremiger Mix aus Espresso, Milch und Eis, verfeinert mit aromatischem Kürbis und warmen Gewürzen, perfekt für den Herbst.",
+      "price": "€6.00",
+      "image": "/images/new/Pumpkin-Spice-Frappe.jpg"
+    },
+    {
+      "id": "103",
+      "category": "Neu",
+      "name": "Pumpkin Spice Latte",
+      "description": "Pumpkin Spice Latte – Cremiger Espresso mit Milch, aromatischem Kürbis und warmen Gewürzen, abgerundet mit Sahne – der perfekte Herbstklassiker.",
+      "price": "€5.00",
+      "image": "/images/new/Pumpkin-Spice-Latte.jpg"
+    },
+    {
+      "id": 104,
+      "category": "Neu",
+      "name": "Pumpkin Golden Milk Caffeine-Free",
+      "description": "Pumpkin Golden Milk – Eine samtige Mischung aus Milch, Kürbis und wärmenden Gewürzen wie Kurkuma und Zimt, ganz ohne Koffein – wohltuend und perfekt für gemütliche Momente.",
+      "price": "€5.00",
+      "image": "/images/new/Pumpkin-Golden-Milk.jpg"
+    },
     {
       "id": 1,
       "category": "Spezialitätenkaffee",
@@ -41,6 +66,24 @@
       "description": "Aeropress-Kaffee bietet eine schnelle und vielseitige Brühmethode für eine sanfte, aromatische Tasse mit geringer Säure.",
       "price": "€6.50",
       "image": "/images/Specialty/Aeropress.avif"
+    },
+    {
+      "id": "103",
+      "category": "Heiß",
+      "description_category": "Mit Kaffeegeschmack",
+      "name": "Pumpkin Spice Latte",
+      "description": "Pumpkin Spice Latte – Cremiger Espresso mit Milch, aromatischem Kürbis und warmen Gewürzen, abgerundet mit Sahne – der perfekte Herbstklassiker.",
+      "price": "€5.00",
+      "image": "/images/new/Pumpkin-Spice-Latte.jpg"
+    },
+    {
+      "id": 104,
+      "category": "Heiß",
+      "description_category": "Ohne Kaffeegeschmack",
+      "name": "Pumpkin Golden Milk Caffeine-Free",
+      "description": "Pumpkin Golden Milk – Eine samtige Mischung aus Milch, Kürbis und wärmenden Gewürzen wie Kurkuma und Zimt, ganz ohne Koffein – wohltuend und perfekt für gemütliche Momente.",
+      "price": "€5.00",
+      "image": "/images/new/Pumpkin-Golden-Milk.jpg"
     },
     {
       "id": 5,
@@ -241,39 +284,41 @@
       "image": "/images/hot/Korean-Maccito.avif"
     },
     {
-    "id": 610,
-    "category": "Heiß",
-    "description_category": "Mit Kaffeegeschmack",
-    "name": "Türkischer Mokka",
-    "description": "Traditioneller türkischer Mokka, langsam bei niedriger Hitze zubereitet, mit kräftigem Geschmack und reichem Aroma.",
-    "price": "€3.20",
-    "image": "/images/hot/trand.jpg"  },
-  {
-    "id": 620,
-    "category": "Heiß",
-    "description_category": "Mit Kaffeegeschmack",
-    "name": "Arabischer Mokka",
-    "description": "Authentischer arabischer Mokka, mit hell gerösteten Bohnen und Kardamom für einen sanften, aromatischen Geschmack.",
-    "price": "€3.20",
-    "image": "/images/hot/trand.jpg"  },
-  {
-    "id": 630,
-    "category": "Heiß",
-    "description_category": "Mit Kaffeegeschmack",
-    "name": "Entkoffeinierter Kaffee",
-    "description": "Eine sanfte Tasse Kaffee ohne Koffein, die den vollen Geschmack bewahrt und zugleich bekömmlich ist.",
-    "price": "€3.50",
-    "image": "/images/hot/with.jpg"
-  },
-  {
-    "id": 640,
-    "category": "Heiß",
-    "description_category": "Ohne Kaffeegeschmack",
-    "name": "Schwarzer Tee",
-    "description": "Eine klassische Tasse schwarzer Tee (Çay), heiß serviert mit einem ausgewogenen, erfrischenden Geschmack.",
-    "price": "€1.50",
-    "image": "/images/hot/shay.jpg"
-  },
+      "id": 610,
+      "category": "Heiß",
+      "description_category": "Mit Kaffeegeschmack",
+      "name": "Türkischer Mokka",
+      "description": "Traditioneller türkischer Mokka, langsam bei niedriger Hitze zubereitet, mit kräftigem Geschmack und reichem Aroma.",
+      "price": "€3.20",
+      "image": "/images/hot/trand.jpg"
+    },
+    {
+      "id": 620,
+      "category": "Heiß",
+      "description_category": "Mit Kaffeegeschmack",
+      "name": "Arabischer Mokka",
+      "description": "Authentischer arabischer Mokka, mit hell gerösteten Bohnen und Kardamom für einen sanften, aromatischen Geschmack.",
+      "price": "€3.20",
+      "image": "/images/hot/trand.jpg"
+    },
+    {
+      "id": 630,
+      "category": "Heiß",
+      "description_category": "Mit Kaffeegeschmack",
+      "name": "Entkoffeinierter Kaffee",
+      "description": "Eine sanfte Tasse Kaffee ohne Koffein, die den vollen Geschmack bewahrt und zugleich bekömmlich ist.",
+      "price": "€3.50",
+      "image": "/images/hot/with.jpg"
+    },
+    {
+      "id": 640,
+      "category": "Heiß",
+      "description_category": "Ohne Kaffeegeschmack",
+      "name": "Schwarzer Tee",
+      "description": "Eine klassische Tasse schwarzer Tee (Çay), heiß serviert mit einem ausgewogenen, erfrischenden Geschmack.",
+      "price": "€1.50",
+      "image": "/images/hot/shay.jpg"
+    },
     {
       "id": 27,
       "category": "Heiß",
@@ -282,6 +327,14 @@
       "description": "Der Japanese Macchiato ist eine besondere Variante des klassischen Macchiato, meist mit Espresso, Milchschaum und einem Schuss gesüßter Kondensmilch.",
       "price": "€2.76",
       "image": "/images/hot/Japanese-Macchiato.avif"
+    },
+    {
+      "id": 102,
+      "category": "Frappuccino",
+      "name": "Pumpkin Spice Frappe",
+      "description": "Pumpkin Spice Frappe – Ein cremiger Mix aus Espresso, Milch und Eis, verfeinert mit aromatischem Kürbis und warmen Gewürzen, perfekt für den Herbst.",
+      "price": "€6.00",
+      "image": "/images/new/Pumpkin-Spice-Frappe.jpg"
     },
     {
       "id": 28,
@@ -430,17 +483,18 @@
       "image": "/images/cold/Coconut-Latte.avif"
     },
     {
-      "id" :45555,
+      "id": 45555,
       "category": "Kalt",
-      "name" :"Tiramisu Latte",
-      "description" :"A dessert-inspired coffee made with rich espresso, smooth Spanish milk, indulgent tiramisu cream, and a slice of tiramisu cake for an authentic flavor experience.",
+      "name": "Tiramisu Latte",
+      "description": "A dessert-inspired coffee made with rich espresso, smooth Spanish milk, indulgent tiramisu cream, and a slice of tiramisu cake for an authentic flavor experience.",
       "price": "€7.00",
       "image": "/images/cold/Tiramisu-Latte.jpg"
     },
-    {      "id" :455455,
+    {
+      "id": 455455,
       "category": "Kalt",
-      "name" :"Red Velvet Latte",
-      "description" :"A creamy and vibrant blend of espresso, Spanish milk, and luscious red velvet sauce, creating a unique coffee with a hint of chocolate sweetness.",
+      "name": "Red Velvet Latte",
+      "description": "A creamy and vibrant blend of espresso, Spanish milk, and luscious red velvet sauce, creating a unique coffee with a hint of chocolate sweetness.",
       "price": "€6.50",
       "image": "/images/cold/Red-Velvet-Latte.jpg"
     },
@@ -711,8 +765,7 @@
       "name": "Acai",
       "image": "/images/Dessert/Acai.avif",
       "description": "Unsere Acai Bowl ist gefüllt mit Früchten, Granola und anderen gesunden Toppings — die perfekte Wahl für einen nahrhaften, erfrischenden Snack.",
-      "price": "€7.50",
-      "comingSoon": "bald verfügbar"
+      "price": "€7.50"
     },
     {
       "id": 75,

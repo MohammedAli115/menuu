@@ -1,5 +1,6 @@
 {
   "menu": {
+    "new": "New",
     "specialty": "Specialty Coffee",
     "hot": "Hot",
     "frappuccino": "Frappuccino",
@@ -7,6 +8,30 @@
     "dessert": "Dessert"
   },
   "products": [
+    {
+      "id": 102,
+      "category": "New",
+      "name": "Pumpkin Spice Frappe",
+      "description": "Pumpkin Spice Frappe – A creamy blend of espresso, milk, and ice, refined with aromatic pumpkin and warm spices, perfect for autumn.",
+      "price": "€6.00",
+      "image": "/images/new/Pumpkin-Spice-Frappe.jpg"
+    },
+    {
+      "id": 103,
+      "category": "New",
+      "name": "Pumpkin Spice Latte",
+      "description": "Pumpkin Spice Latte – Creamy espresso with milk, aromatic pumpkin, and warm spices, topped with whipped cream – the perfect autumn classic.",
+      "price": "€5.00",
+      "image": "/images/new/Pumpkin-Spice-Latte.jpg"
+    },
+    {
+      "id": 104,
+      "category": "New",
+      "name": "Pumpkin Golden Milk Caffeine-Free",
+      "description": "Pumpkin Golden Milk – A velvety blend of milk, pumpkin, and warming spices like turmeric and cinnamon, completely caffeine-free – soothing and perfect for cozy moments.",
+      "price": "€5.00",
+      "image": "/images/new/Pumpkin-Golden-Milk.jpg"
+    },
     {
       "id": 1,
       "category": "Specialty Coffee",
@@ -41,6 +66,24 @@
       "description": "Aeropress coffee offers a quick and versatile brewing method, delivering a smooth, rich, and flavorful cup with low acidity.",
       "price": "€6.50",
       "image": "/images/Specialty/Aeropress.avif"
+    },
+        {
+      "id": 103,
+      "category": "Hot",
+      "description_category": "With coffee flavor",
+      "name": "Pumpkin Spice Latte",
+      "description": "Pumpkin Spice Latte – Creamy espresso with milk, aromatic pumpkin, and warm spices, topped with whipped cream – the perfect autumn classic.",
+      "price": "€5.00",
+      "image": "/images/new/Pumpkin-Spice-Latte.jpg"
+    },
+    {
+      "id": 104,
+      "category": "Hot",
+      "description_category": "Without coffee flavor",
+      "name": "Pumpkin Golden Milk Caffeine-Free",
+      "description": "Pumpkin Golden Milk – A velvety blend of milk, pumpkin, and warming spices like turmeric and cinnamon, completely caffeine-free – soothing and perfect for cozy moments.",
+      "price": "€5.00",
+      "image": "/images/new/Pumpkin-Golden-Milk.jpg"
     },
     {
       "id": 5,
@@ -240,42 +283,42 @@
       "price": "€3.06",
       "image": "/images/hot/Korean-Maccito.avif"
     },
-      {
-    "id": 610,
-    "category": "Hot",
-    "description_category": "With coffee flavor",
-    "name": "Turkish Coffee",
-    "description": "Traditional Turkish coffee brewed slowly over low heat, offering a strong flavor and rich aroma.",
-    "price": "€3.20",
-    "image": "/images/hot/trand.jpg"
-  },
-  {
-    "id": 620,
-    "category": "Hot",
-    "description_category": "With coffee flavor",
-    "name": "Arabic Coffee",
-    "description": "Authentic Arabic coffee prepared with light roast beans and flavored with cardamom for a smooth, aromatic taste.",
-    "price": "€3.20",
-    "image": "/images/hot/trand.jpg"
-  },
-  {
-    "id": 630,
-    "category": "Hot",
-    "description_category": "With coffee flavor",
-    "name": "Decaffeinated Coffee",
-    "description": "A smooth cup of coffee without caffeine, keeping the rich taste while being gentle on your body.",
-    "price": "€3.50",
-    "image": "/images/hot/with.jpg"
-  },
-  {
-    "id": 640,
-    "category": "Hot",
-    "description_category": "Without coffee flavor",
-    "name": "Black Tea",
-    "description": "A classic cup of black tea (Çay), served hot with a balanced, refreshing taste.",
-    "price": "€1.50",
-    "image": "/images/hot/shay.jpg"
-  },
+    {
+      "id": 610,
+      "category": "Hot",
+      "description_category": "With coffee flavor",
+      "name": "Turkish Coffee",
+      "description": "Traditional Turkish coffee brewed slowly over low heat, offering a strong flavor and rich aroma.",
+      "price": "€3.20",
+      "image": "/images/hot/trand.jpg"
+    },
+    {
+      "id": 620,
+      "category": "Hot",
+      "description_category": "With coffee flavor",
+      "name": "Arabic Coffee",
+      "description": "Authentic Arabic coffee prepared with light roast beans and flavored with cardamom for a smooth, aromatic taste.",
+      "price": "€3.20",
+      "image": "/images/hot/trand.jpg"
+    },
+    {
+      "id": 630,
+      "category": "Hot",
+      "description_category": "With coffee flavor",
+      "name": "Decaffeinated Coffee",
+      "description": "A smooth cup of coffee without caffeine, keeping the rich taste while being gentle on your body.",
+      "price": "€3.50",
+      "image": "/images/hot/with.jpg"
+    },
+    {
+      "id": 640,
+      "category": "Hot",
+      "description_category": "Without coffee flavor",
+      "name": "Black Tea",
+      "description": "A classic cup of black tea (Çay), served hot with a balanced, refreshing taste.",
+      "price": "€1.50",
+      "image": "/images/hot/shay.jpg"
+    },
     {
       "id": 27,
       "category": "Hot",
@@ -284,6 +327,14 @@
       "description": "The Japanese Macchiato is a unique take on the traditional macchiato, typically featuring a rich espresso topped with a smooth layer of frothed milk and a drizzle of sweetened condensed milk.",
       "price": "€2.76",
       "image": "/images/hot/Japanese-Macchiato.avif"
+    },
+        {
+      "id": 102,
+      "category": "Frappuccino",
+      "name": "Pumpkin Spice Frappe",
+      "description": "Pumpkin Spice Frappe – A creamy blend of espresso, milk, and ice, refined with aromatic pumpkin and warm spices, perfect for autumn.",
+      "price": "€6.00",
+      "image": "/images/new/Pumpkin-Spice-Frappe.jpg"
     },
     {
       "id": 28,
@@ -441,22 +492,21 @@
       "image": "/images/cold/water.jpg"
     },
     {
-  "id": 45555,
-  "category": "Cold",
-  "name": "Tiramisu Latte",
-  "description": "A dessert-inspired coffee made with rich espresso, smooth Spanish milk, indulgent tiramisu cream, and a slice of tiramisu cake for an authentic flavor experience.",
-  "price": "€7.00",
-  "image": "/images/cold/Tiramisu-Latte.jpg"
-},
-{
-  "id": 455455,
-  "category": "Cold",
-  "name": "Red Velvet Latte",
-  "description": "A creamy and vibrant blend of espresso, Spanish milk, and luscious red velvet sauce, creating a unique coffee with a hint of chocolate sweetness.",
-  "price": "€6.50",
-  "image": "/images/cold/Red-Velvet-Latte.jpg"
-}
-,
+      "id": 45555,
+      "category": "Cold",
+      "name": "Tiramisu Latte",
+      "description": "A dessert-inspired coffee made with rich espresso, smooth Spanish milk, indulgent tiramisu cream, and a slice of tiramisu cake for an authentic flavor experience.",
+      "price": "€7.00",
+      "image": "/images/cold/Tiramisu-Latte.jpg"
+    },
+    {
+      "id": 455455,
+      "category": "Cold",
+      "name": "Red Velvet Latte",
+      "description": "A creamy and vibrant blend of espresso, Spanish milk, and luscious red velvet sauce, creating a unique coffee with a hint of chocolate sweetness.",
+      "price": "€6.50",
+      "image": "/images/cold/Red-Velvet-Latte.jpg"
+    },
     {
       "id": 46,
       "category": "Cold",
